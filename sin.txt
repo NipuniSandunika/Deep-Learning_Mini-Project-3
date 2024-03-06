@@ -1,0 +1,3500 @@
+Go.		යන්න.
+Go.		යන්න.
+Go.		යන්න.
+Go.		යන්න.
+Hi.		ආයුබෝවන්.
+Run!		දුවන්න!
+Run.		දුවන්න.
+Who?		කවුද?
+Wow!		වාව්!
+Fire!		ගිනි!
+Fire!		ගිනි!
+Fire!		ගිනි!
+Help!		උදව්!
+Help!		උදව්!
+Help!		උදව්!
+Jump!		පනින්න!
+Jump.		පනින්න.
+Stop!		නවත්වන්න!
+Stop!		නවත්වන්න!
+Stop!		නවත්වන්න!
+Wait!		ඉන්න!
+Wait.		ඉන්න.
+Go on.		දිගටම යන්න.
+Go on.		දිගටම කරගෙන යන්න.
+Hello!		ආයුබෝවන්.
+I ran.		මම දිව්වා.
+I ran.		මම දුවමින් සිටියෙමි.
+I try.		මම උත්සාහ කරනවා.
+I won!		මම දිනුවා!
+Oh no!		අපොයි නෑ!
+Relax.		එය සෝඩා සමඟ ගන්න.
+Smile.		සිනාසෙන්න.
+Attack!		පහර දෙන්න!
+Attack!		පහර දෙන්න!
+Get up.		ඔසවන්න.
+Go now.		දැන්ම යන්න.
+Got it!		මට එය තිබේ!
+Got it?		ඔබට එය ලැබෙනවාද?
+Got it?		ඔයාට තේරුනාද?
+He ran.		ඔහු දිව්වා.
+Hop in.		ඇතුලට එන්න.
+Hug me.		මාව සිඹින්න.
+I fell.		මම දරුණුයි.
+I know.		මම එය දන්නවා.
+I left.		මම පිටත් වුණා.
+I lied.		මම බොරු කිව්වා.
+I lost.		මට මග හැරුණා.
+I quit.		මම ඉල්ලා අස්වෙනවා.
+I quit.		මම අත්හැරියා.
+I sang.		ගායනා කරන්න.
+I work.		මම ඉන්නේ වැඩ කරමින්.
+I'm 19.		මට වයස දහනවයයි.
+I'm up.		මම නැගිට්ටා.
+Listen.		සවන් දෙන්න.
+Listen.		සවන් දෙන්න.
+Listen.		සවන් දෙන්න.
+No way!		එය නිකම්ම විය නොහැක!
+No way!		කොහෙත්ම නැහැ.
+No way!		කොහෙත්ම නැහැ!
+No way!		නොහැකියි!
+No way!		කොහෙත්ම නැහැ!
+No way!		ඒ කිසිවක් නැත!
+No way!		ජරාවක්වත් නෑ!
+No way!		අඹ!
+No way!		මිංගා!
+No way!		කොහෙත්ම නැහැ!
+Really?		හා ඇත්තම ද?
+Really?		ඇත්ත?
+Thanks.		ඔයාට ස්තූතියි!
+Thanks.		ඔයාට ස්තූතියි.
+Try it.		එය පරීක්ෂා කරන්න.
+We try.		අපි එය උත්සාහ කරමු.
+We won.		අපි දිනුවා.
+Why me?		මම නිසාද?
+Ask Tom.	ටොම්ගෙන් අහන්න.
+Awesome!	ඔහුට යාච්ඤා කරන්න!
+Be calm.	සන්සුන්ව සිටින්න.
+Be cool.	සන්සුන් වන්න.
+Be fair.	සාධාරණ වෙන්න.
+Be kind.	අාචාරසම්පන්න වෙන්න.
+Be nice.	ලස්සන වෙන්න.
+Beat it.	මකබෑවිලා පලයන්.
+Call me.	මට අමතන්න.
+Call me.	මට අමතන්න
+Call me.	මට අමතන්න.
+Call us.	අප අමතන්න.
+Come in.	අතර.
+Come in.	සිදුවේ.
+Come in.	එන්න!
+Come on!	ඔහුට යාච්ඤා කරන්න!
+Come on.	එක්ක එන්න.
+Come on.	ඔහුට යාච්ඤා කරන්න!
+Drop it!	එයට යන්න දෙන්න.
+Get Tom.	ටොම් අල්ලා ගන්න.
+Get out!	බහින්න.
+Get out.	පනින්න.
+Get out.	ලුණු.
+Get out.	මම පිටත් වුණා.
+Get out.	එළිදරව් වෙනවා.
+Get out.	පලයන් එළියට.
+Go away!	මෙතනින් පිටවෙන්න!
+Go away!	පලයන් එළියට!
+Go away!	මෙතනින් පිටවෙන්න!
+Go away!	දිගු!
+Go away!	අහකට යන්න!
+Go away!	ඔහුට යාච්ඤා කරන්න!
+Go away!	පාරේ!
+Go away.	මෙතනින් පිටවෙන්න!
+Go away.	පලයන් එළියට!
+Go away.	දිගු!
+Go away.	අහකට යන්න!
+Go away.	ඔහුට යාච්ඤා කරන්න!
+Go away.	පලයන් එළියට.
+Go away.	අහකට යන්න.
+Go home.	ගෙදර යන්න.
+Go slow.	සෙමින් යන්න.
+Goodbye!	ඔයාව පසුව හමුවෙන්නම්!
+Goodbye!	ඔබව පසුව දකින්නම්.
+Goodbye!	ආයුබෝවන්!
+Hang on!	ඉන්න!
+Hang on!	විනාඩියක් ඉන්න!
+Hang on!	තත්පරයක්!
+Hang on.	තදින් අල්ලගන්න.
+He came.	වයින්.
+He quit.	ඔහු ඉල්ලා අස්විය.
+Help me!	මට උපකාර කරන්න.
+Help me.	මට උපකාර කරන්න.
+Help me.	සහයෝගයක් දෙන්න.
+Help me.	මට උපකාර කරන්න.
+Help us.	අපට උදව් කරන්න.
+Hit Tom.	ටොම්ට පහර දෙන්න.
+Hold it!	ඉන්න.
+Hold on.	ප්රතිරෝධය.
+Hold on.	ප්රතිරෝධය.
+Hold on.	තදින් අල්ලගන්න.
+Hug Tom.	ටොම්ව බදාගන්නවා.
+I agree.	මම එකඟයි.
+I agree.	හරි.
+I bowed.	මම වැඳ වැටුණෙමි.
+I moved.	මම මාරු වී ඇත.
+I moved.	මම ඉවත්වුණා.
+I moved.	මම ඉවත්වුණා.
+I moved.	මම මාරු වී ඇත.
+I slept.	මම නිදාගත්තා.
+I tried.	මම උත්සාහ කළා.
+I'll go.	මම යන්නම්.
+I'm Tom.	මම ටොම්.
+I'm fat.	මම මහතයි.
+I'm fat.	මම මහතයි.
+I'm fit.	මම හැඩයි.
+I'm hit!	මම බලපානවා.
+I'm old.	මම වයසයි.
+I'm shy.	මට ලැජ්ජයි.
+I'm wet.	මම තෙත් වෙලා.
+It's OK.	හරි.
+It's me!	ඒ මමයි.
+It's me.	ඒ මමයි.
+Join us.	අප හා එක් වන්න.
+Join us.	අපේ කොටසක් වෙන්න.
+Keep it.	එය සුරකින්න.
+Me, too.	මටත්.
+Open up.	විවෘත කරයි.
+Perfect!	පරිපූර්ණ!
+See you.	නැවත හමුවෙන්නම්.
+Show me.	මට පෙනවන්න.
+Show me.	මට එය පෙන්වන්න.
+Show me.	මට පෙනවන්න.
+Shut up!	කට වහපන්!
+Shut up!	කට වහපන්!
+Skip it.	එය මඟ හරින්න.
+So long.	ඔබව පසුව දකින්නම්.
+So long.	ඔයාව පසුව හමුවෙන්නම්.
+Stop it.	සඳහා වන.
+Stop it.	එය නවත්වන්න.
+Take it.	ඒක ගන්න.
+Tell me.	මට කියන්න.
+Tom ate.	ටොම් කෑවා.
+Tom ran.	ටොම් දිව්වා.
+Tom won.	ටොම් දිනුවා.
+Wait up.	මා එනතුරු බලා සිටින්න.
+Wake up!	අවදි වන්න!
+Wake up!	අවදි වන්න!
+Wake up!	අවදි වන්න!
+Wake up.	අවදි වන්න.
+Wash up.	ඔබේ අත් සෝදන්න.
+We care.	අපි සැලකිලිමත්.
+We know.	අපි දන්නවා.
+We lost.	අපි පැරදුනා.
+Welcome.	සාදරයෙන් පිළිගනිමු.
+Welcome.	සාදරයෙන් පිළිගනිමු.
+Who ate?	කවුද කෑවේ?
+Who ran?	දුවමින් සිටියේ කවුද?
+Who ran?	කවුද දිව්වේ?
+Who won?	කවුද දිනුවේ?
+Who won?	කවුද දිනලා තියෙන්නේ?
+Why not?	ඇයි නැත්තේ?
+You run.	දුවනවා.
+You won.	ඔබ දිනුවා.
+Am I fat?	මම මහතයි?
+Ask them.	ඔවුන්ගෙන් අහන්න.
+Ask them.	ඔවුන්ගෙන් අහන්න.
+Back off!	වෙන්ව.
+Back off.	අහකට වෙන්න.
+Be a man.	මිනිසෙකු වන්න.
+Be brave.	ශක්තිමත් වෙන්න.
+Be brief.	කෙටියෙන් කියන්න.
+Be brief.	කෙටියෙන් කියන්න.
+Be brief.	කෙටියෙන් කියන්න.
+Be quiet.	නිශ්ශබ්ද වන්න.
+Be still.	චලනය නොවන්න.
+Call Tom.	තෝමස් අමතන්න!
+Call Tom.	ටොමස් අමතන්න!
+Call Tom.	ටොමස් අමතන්න!
+Cheer up!	නො කලකිරෙනු.
+Cheer up.	ඉදිරියට එන්න.
+Cool off!	එය සැහැල්ලුවෙන් සිතන්න!
+Cuff him.	ඔහුට මාංචු දමන්න.
+Don't go.	යන්න එපා.
+Drive on.	දිගටම යන්න.
+Find Tom.	ටොමස් සොයා ගන්න.
+Find Tom.	ටොමස් සොයා ගන්න.
+Find Tom.	ටොමස් එයාව හොයාගන්න.
+Find Tom.	ටොමස් සොයා ගන්න.
+Find Tom.	ටොම් සොයා ගන්න.
+Find Tom.	ටොම් සොයා ගන්න.
+Fix this.	මේක හදන්න.
+Get away!	මෙතනින් පිටවෙන්න!
+Get away!	පලයන් එළියට!
+Get away!	දිගු!
+Get away!	අහකට යන්න!
+Get down!	ඒකට එන්න.
+Get down.	පහත.
+Get down.	බිම දිගාවෙන්න.
+Get lost!	මකබෑවිලා පලයන්!
+Get lost!	මෙතනින් පිටවෙන්න!
+Get lost!	පලයන් එළියට!
+Get lost!	දිගු!
+Get lost!	අහකට යන්න!
+Get lost.	අතුරුදහන්.
+Get real!	අවදි වන්න!
+Get real!	නුවණින් සිතන්න!
+Get real.	ඇස් අරින්න.
+Go ahead!	ඉදිරියට.
+Go ahead.	ඉදිරියට.
+Go on in.	අතර.
+Go on in.	ඇතුල් වේ.
+Go on in.	එන්න.
+Go on in.	ඇතුල් වේ.
+Go on in.	එන්න.
+Going up?	ඔබ ඉහළට යනවාද?
+Good job!	හොඳ වැඩක්!
+Grab Tom.	ටොම් අල්ලා ගන්න.
+Grab him.	ඔහුව අල්ලා ගන්න.
+Have fun.	විනෝද වන්න.
+Have fun.	හොඳ කාලයක් එළඹේවා.
+Have fun.	එය රස විඳින්න.
+He spoke.	ඔහු කතාකලා.
+He tries.	ඔහු උත්සාහ කරයි.
+He tries.	ඔහු උත්සාහ කරයි.
+Help Tom.	ටොම්ට උදව් කරන්න.
+Help him.	ඔහුට උදව් කරන්න.
+Hi, guys.	හායි, මොකද වෙන්නේ?
+Hi, guys.	හේයි ළමයි.
+Hi, guys.	මොකද වෙන්නේ, ලොග්?
+Hi, guys.	හලෝ හොඳයි.
+Hi, guys.	ඔයාට කොහොම ද?
+Hi, guys.	ආයුබෝවන් මෙන්න.
+How cute!	මොනතරම් අලංකාරයක්ද!
+How deep?	කොපමණ ගැඹුරු ද?
+How deep?	කොපමණ ගැඹුරු ද?
+Humor me.	මට උදව් කරන්න.
+Humor me.	කරුණාකර මට.
+Hurry up.	ඉක්මන් කරන්න!
+Hurry up.	ඉක්මන් කරන්න.
+I agreed.	මම එකඟ වුණා.
+I agreed.	මම පිළිගත්ත.
+I agreed.	මම එකඟ වුණා.
+I am fat.	මම මහතයි.
+I am old.	මම වයසයි.
+I ate it.	මම ඒක කෑවා.
+I ate it.	මම ඒක කෑවා.
+I can go.	මට යන්න පුළුවන්.
+I did OK.	මම ඒක හොඳට කළා.
+I did it.	එය කළේ මමයි.
+I failed.	මම අසාර්ථක වුණා.
+I forgot.	මට ඒක අමතක වුනා.
+I get by.	මම කළමනාකරණය කරනවා.
+I get it.	මට තේරෙනවා.
+I got it.	මට ඒක තියෙනවා.
+I phoned.	මම දුරකථනයෙන් කතා කළා.
+I refuse.	මම ප්‍රතික්ෂේප කරනවා.
+I resign.	මම ඉල්ලා අස්වෙනවා.
+I resign.	මම අත්හැරියා.
+I saw it.	මම ඒක දැක්කා.
+I smiled.	මම සිනාසුණෙමි.
+I stayed.	මම නතර වුණා.
+I talked.	මම කතා කළා.
+I talked.	ඇය කතා කළාය.
+I talked.	මම කතා කළා.
+I talked.	ඔහු කතා බහ කළේය.
+I use it.	මම එය භාවිතා කරමි.
+I waited.	ඉන්න.
+I'll pay.	මම ගෙවන්නම්.
+I'm back.	මම ආවා.
+I'm back.	මම ආවා.
+I'm bald.	මම තට්ටය.
+I'm bald.	මම තට්ටය.
+I'm calm.	මම සන්සුන්ව සිටිමි.
+I'm cool.	මම නිහඬයි.
+I'm done.	මම ඉවරයි.
+I'm easy.	මම හරිම සැහැල්ලුයි.
+I'm fair.	මම සාධාරණයි.
+I'm fine.	IM පරිපූර්ණයි.
+I'm free!	මම නිදහස්!
+I'm free.	මම නිදහස්.
+I'm full.	මම පිරී ඇත.
+I'm full.	මම පිරී සිටිමි.
+I'm full.	මම දැනටමත් පිරී ඇත.
+I'm here.	මම මෙහේ.
+I'm home.	මම ගෙදර.
+I'm hurt.	මගේ හිත රිදුනා.
+I'm late.	මම ප්රමාදයි.
+I'm lazy.	මම කම්මැලියි.
+I'm lost.	මම අතරමං වෙලා.
+I'm mean.	මම නරකයි.
+I'm next.	මගේ වාරයයි.
+I'm okay.	IM පරිපූර්ණයි.
+I'm poor.	මම දුප්පත්.
+I'm rich.	මම පොහොසත්.
+I'm rich.	මම පොහොසත්.
+I'm safe.	මම ආරක්ෂිතයි.
+I'm sick.	මම එපා වෙලා.
+I'm thin.	මම කෙට්ටුයි.
+I'm tidy.	මම පිරිසිදුයි.
+I'm warm.	මම උණුසුම්.
+I'm weak.	මම දුර්වලයි.
+I'm wise.	මම දක්ෂයි.
+I've won.	මම දිනුම්.
+It helps.	එය උපකාර කරයි.
+It hurts.	රිදෙනවා.
+It works.	කටයුතු.
+It's Tom.	ඒ ටොම්.
+It's fun.	එය විනෝදජනකයි.
+It's his.	ඒක ඔයාගේ.
+It's new.	ඒක අලුත්.
+It's odd.	ඒක අමුතුයි.
+It's old.	වයසයි.
+It's red.	ඒක රතු පාටයි.
+It's sad.	දුකයි.
+Keep out!	ඇතුළත් වීමක් නැත.
+Keep out.	ඇතුළු නොවන්න.
+Kiss Tom.	ටොමස්ව සිපගන්න.
+Kiss Tom.	ටොමස්ව සිපගන්න.
+Kiss Tom.	ටොමස් සිපගන්න.
+Leave it.	එය අතහරින්න.
+Leave me.	ඉන්න මම.
+Leave us.	අපිව දාලා යන්න.
+Let's go!	ඉදිරියට එන්න.
+Let's go!	ඔහුට යාච්ඤා කරන්න!
+Let's go.	ඔහුට යාච්ඤා කරන්න!
+Look out!	පරිස්සමෙන්.
+Marry me.	මාව බඳින්න.
+May I go?	මට යන්න පුළුවන්?
+Save Tom.	ටොම් බේරගන්න.
+She came.	ඇය ආවා.
+She died.	ඇය මිය ගියාය.
+She runs.	ඇය දුවයි.
+Sit down!	ඉඳ ගන්න!
+Sit down.	ඉඳ ගන්න.
+Sit here.	මෙහි වාඩි වෙන්න.
+Speak up!	වඩා හයියෙන් කතා කරන්න!
+Speak up!	හයියෙන් කතා කරන්න.
+Speak up!	හයියෙන් කතා කරන්න!
+Stand by.	සුදානම් වන්න.
+Stand by.	එක මොහොතක්.
+Stand up!	කෙළින් සිටින!
+Stand up!	ස්ථාවර!
+Stay put.	චලනය නොවන්න.
+Stop Tom.	ටොම් නවත්වන්න.
+Take Tom.	ටොම් ගන්න.
+Tell Tom.	ටොම්ට කියන්න.
+Terrific!	දීප්තිමත්!
+Terrific!	ඔහුට යාච්ඤා කරන්න!
+They won.	ඔවුන් දිනුවා.
+Tom came.	ටොම් ආවා.
+Tom died.	ටොම් මැරිලා.
+Tom fell.	ටොම් වැටුණා.
+Tom knew.	ටොම් එය දැන සිටියේය.
+Tom knew.	ටොම් එය දැන සිටියේය.
+Tom left.	ටොම් ගියා.
+Tom lied.	ටොම් බොරු කිව්වා.
+Tom lies.	තෝමස් බොරු කියනවා.
+Tom lost.	ටොම් නැති වුණා.
+Tom paid.	ටොම් ගෙවා ඇත.
+Tom quit.	ටොම් ඉල්ලා අස්විය.
+Tom swam.	ටොම් පිහිනුවා.
+Tom wept.	ටොම් ඇඬුවා.
+Tom's up.	ටොම් නැගිට්ටා.
+Too late.	ඕනෑවට වඩා පරක්කුයි.
+Trust me.	මාව විශ්වාස කරන්න.
+Try hard.	ඇත්තටම එය උත්සාහ කරන්න.
+Try some.	ටිකක් උත්සාහ කරන්න.
+Try some.	ටිකක් උත්සාහ කරන්න.
+Try some.	ටිකක් උත්සාහ කරන්න.
+Try this.	මේක උත්සාහ කරන්න.
+Try this.	මේක උත්සාහ කරන්න.
+Try this.	මේක උත්සාහ කරන්න.
+Use this.	මෙය භාවිතා කරන්න.
+Warn Tom.	ටොම්ට දන්වන්න.
+Warn Tom.	ටොම්ට දන්වන්න.
+Warn Tom.	ටොම්ට දන්වන්න.
+Warn Tom.	ටොම්ට කියන්න.
+Watch me.	මා දෙස බලන්න.
+Watch me.	මාව බලාගන්න.
+Watch me.	මාව බලාගන්න.
+Watch us.	ඒවා නිරීක්ෂණය කරන්න.
+Watch us.	අපිව බලාගන්න.
+We agree.	අපි එකඟයි.
+We tried.	අපි උත්සාහ කළා.
+We'll go.	අපි යන්නම්.
+We're OK.	අපි හොඳින්.
+What for?	ඉතින් එතකොට?
+What fun!	මොනතරම් විනෝදයක්ද!
+Who am I?	මම කව්ද?
+Who came?	කවුද ආවේ?
+Who died?	කවුද මැරුනේ?
+Who fell?	නිහඬව සිටියේ කවුද?
+Who fell?	වැටුනේ කවුද?
+Who quit?	කවුද ගිහින් තියෙන්නේ?
+Who quit?	එය අත්හැරියේ කවුද?
+Who swam?	පිහිනුවේ කවුද?
+Who's he?	ඔහු කව්ද?
+Write me.	මට ලියන්න.
+After you.	ඔබට පසුව.
+After you.	ඔබ මුලින්ම.
+After you.	ඔබ මුලින්ම.
+After you.	ඔබට පසුව.
+After you.	ඔබට පසුව.
+Aim. Fire!	ඉලක්කය. ගිනි!
+Answer me.	මට උත්තර දෙන්න.
+Answer me.	මට පිළිතුරු දෙන්න.
+Answer me.	මට පිළිතුරු දෙන්න.
+Birds fly.	කුරුල්ලෝ පියාසර කරති.
+Bless you.	යේසුස් වහන්සේ.
+Call home!	නිවසට අමතන්න!
+Calm down.	එය සැහැල්ලුවෙන් සිතන්න.
+Calm down.	සන්සුන් වන්න.
+Calm down.	එය සෝඩා සමඟ ගන්න.
+Calm down.	අඩු වෙනසක්.
+Can we go?	අපිට යන්න පුළුවන්?
+Can we go?	අපිට යන්න පුළුවන්?
+Can we go?	අපිට යන්න පුළුවන්ද?
+Catch Tom.	ටොමස් ගන්න!
+Catch him.	එය අල්ලා ගන්න.
+Catch him.	ඔහුව අල්ලා ගන්න.
+Catch him.	එයාව අල්ලගන්න.
+Catch him.	ඒක අල්ලන්න.
+Come back.	ආපහු එනවා.
+Come here.	එන්න.
+Come here.	එන්න.
+Come here.	මෙහේ එන්න.
+Come home.	ගෙදර එන්න.
+Come over.	මෙහේ එන්න.
+Come over.	එන්න.
+Come over.	එන්න.
+Come over.	මෙහේ එන්න.
+Come soon.	ඉක්මනින් ආපසු එන්න.
+Did I win?	මම දිනුවා?
+Did I win?	මම දිනුම්?
+Do it now.	දැන් එය කරන්න.
+Dogs bark.	බල්ලෝ බුරති.
+Don't ask.	අහන්න එපා.
+Don't cry.	අඩන්න එපා.
+Don't cry.	අඩන්න එපා!
+Don't cry.	අඩන්න එපා!
+Don't cry.	අඩන්න එපා.
+Don't die.	මැරෙන්න එපා!
+Don't lie.	බොරු කියන්න එපා.
+Don't run.	දුවන්න එපා.
+Fantastic!	අපූරුයි!
+Fantastic!	එය විශිෂ්ටයි!
+Fantastic!	ඔහුට යාච්ඤා කරන්න!
+Feel this.	මේක උත්සාහ කරන්න.
+Feel this.	මේක උත්සාහ කරන්න.
+Feel this.	මේක උත්සාහ කරන්න.
+Feel this.	මේක උත්සාහ කරන්න.
+Feel this.	මේක උත්සාහ කරන්න.
+Follow me.	මාව අනුගමනය කරන්න.
+Follow me.	මාව අනුගමනය කරන්න
+Follow us.	අපිව අනුගමනය කරන්න.
+Forget it.	එය අතහරින්න.
+Forget me.	මාව අමතක කරන්න.
+Forget me.	මා ගැන අමතක කරන්න.
+Forget me.	මාව අමතක කරන්න.
+Forget me.	මා ගැන අමතක කරන්න.
+Get ready.	සුදානම් වන්න.
+Go for it.	එය කරන්න.
+Go for it.	ගිහින් ගන්න.
+Go get it.	එය කරන්න.
+Go get it.	එය කරන්න.
+Go get it.	එය කරන්න.
+Go inside.	ඇතුල් වේ.
+Go to bed.	ඇඳට යන්න.
+Grab that.	ඒක ගන්න.
+Grab this.	මේක තියාගන්න.
+Have some.	ටිකක් ගන්න.
+Have some.	මොනවා හරි ගන්න.
+Have some.	ටිකක් ගන්න.
+He is old.	ඔහු මහලු වේ.
+He is old.	ඔහු මහලු වේ.
+He shaved.	ඔහු රැවුල කැපුවා.
+He smiled.	ඔහු සිනාසුණේය.
+He's a DJ.	ඔහු ඩී.ජේ.
+He's fast.	ඔහු වේගවත් ය.
+He's good.	ඔහු හොඳයි.
+He's rich.	ඔහු පොහොසත් ය.
+He's rich.	පොහොසත් ය.
+Here I am.	මේ මම ඉන්නේ.
+Hold this.	මේක තියාගන්න.
+How awful!	මොනතරම් භයානකද!
+How weird!	මොනතරම් අමුතු දෙයක්ද!
+How's Tom?	ටොම් කොහොමද?
+Humor Tom.	එය ටොම්ව විනෝද කරයි.
+I am busy.	මම කාර්ය බහුලයි.
+I am full.	මම පිරී ඇත.
+I am full.	මම පිරී සිටිමි.
+I am good.	මම හොඳින්.
+I am here.	මම මෙහේ.
+I am sick.	මම එපා වෙලා.
+I am weak.	මම දුර්වලයි.
+I beg you.	මම ඔයාගෙන් අයදිනවා.
+I beg you.	මම අයදිනවා.
+I can fly.	මට ඉගිලෙන්න පුළුවන්.
+I can run.	මට දුවන්න පුළුවන්.
+I can run.	මම දුවන්න දන්නවා.
+I can ski.	මම ස්කීං ගහන්න දන්නවා.
+I cringed.	මට ලැජ්ජ හිතුනා.
+I fainted.	මට සිහිය නැති වුණා.
+I fainted.	මම සිහිසුන්ව සිටියෙමි.
+I gave up.	මම ඒක දාලා ගියා.
+I gave up.	මම අත්හැරියා.
+I gave up.	මම තුවාය විසි කළා.
+I gave up.	මම දුන්න.
+I get you.	මට ඔයාව තේරෙනවා.
+I get you.	මම ඔයාව අල්ලනවා.
+I get you.	මට ඔයාව තේරුණා.
+I got hit.	ඔවුන් මට දුන්නා.
+I got hit.	ඔවුන් මාව අල්ලා ගත්තා.
+I hate it.	මම එකාට වෛර කරනවා.
+I hate it.	මම එය වියළන්නෙමි.
+I hate it.	ඔහු එය මට පහත් කරයි.
+I hit Tom.	මම ටොම්ට ගැහුවා.
+I hope so.	මම එසේ බලාපොරොත්තු වෙනවා.
+I knew it.	මම එය දැනගත්තා.
+I laughed.	මට හිනා ගියා.
+I like it.	මම එයට කැමතියි.
+I love it!	මම එයට කැමතියි!
+I love it.	මම එයට කැමතියි.
+I mean it!	මම බැරෑරුම්.
+I mean it.	මම බැරෑරුම්.
+I mean it.	මම බැරෑරුම්.
+I miss it.	මට ඒක එපා වෙනවා.
+I miss it.	මට පාලුයි.
+I miss it.	මට ඒයාව දැනෙනවා.
+I need it.	මට එය අවශ්යයයි.
+I saw Tom.	මම ටොම්ව දැක්කා.
+I saw him.	මම ඔහුව දැක්කා.
+I saw him.	මම ඒක දැක්කා.
+I saw one.	මම එකක් දැක්කා.
+I saw one.	මම එකක් දැක්කා.
+I saw one.	මම එකක් දැක්කා.
+I saw you.	මම ඔයාව දැක්කා.
+I saw you.	මම ඔයාව දැකලා තියෙනවා.
+I see Tom.	මම ටොම්ව දකිනවා.
+I tripped.	මම පැකිළුණා.
+I'll cook.	මම උයන්නම්.
+I'll cook.	මම උයන්නම්.
+I'll live.	මම ජීවත් වන්නෙමි.
+I'll sing.	මම ගායනා කරන්නම්.
+I'll stop.	මම නවතිමි.
+I'll stop.	මම ඒක දාලා එන්නම්.
+I'll wait.	මම බලා ඉන්නම්.
+I'll wait.	මම බලාගෙන ඉන්නම්.
+I'll walk.	මම ඇවිදින්නෙමි.
+I'll walk.	මම පයින් යන්නම්.
+I'll work.	වැඩට යන්න.
+I'm a man.	මම මිනිහෙක්.
+I'm a pro.	මම ගැති කෙනෙක්.
+I'm alone.	මම තනියෙන්.
+I'm alone.	මම තනියමයි.
+I'm alone.	මම තනියමයි.
+I'm alone.	මම තනියෙන්.
+I'm angry.	මම තරහින්.
+I'm angry.	මම තරහින්.
+I'm awake.	මම අවදියෙන් සිටිමි.
+I'm blind.	මම අන්ධයි.
+I'm broke.	මට සල්ලි නෑ.
+I'm broke.	මම කැඩිලා.
+I'm broke.	මම කැඩිලා.
+I'm broke.	මට සුදු නෑ.
+I'm crazy.	මට පිස්සු.
+I'm drunk.	මම බීමත්ව සිටිමි.
+I'm drunk.	මාව ගත්තා.
+I'm drunk.	මම ක්‍රියාත්මකයි.
+I'm dying.	මම මැරෙනවා.
+I'm first.	මම තමයි පළවෙනියා.
+I'm first.	මම මුලින්ම යනවා.
+I'm first.	මුලින්ම මගේ වාරයයි.
+I'm first.	මම මුලින්ම යනවා.
+I'm happy.	මට සතුටුයි.
+I'm happy.	මට සතුටුයි.
+I'm loved.	මම ආදරෙයි.
+I'm loved.	මම ආදරය කරන කෙනෙක්.
+I'm obese.	මම තරබාරුයි.
+I'm ready.	මම සුදානම්.
+I'm sorry.	මට කණගාටුයි.
+I'm tired.	මට මහන්සියි.
+I'm tired.	මට මහන්සියි.
+I'm yours.	මම ඔයාගේය.
+I'm yours.	මම ඔයාගේය.
+I'm yours.	මම ඔබේය.
+I've lost.	මම අතරමං වුණා.
+Ignore it.	එය අමතක කරන්න.
+Ignore it.	අවධානය යොමු නොකරන්න.
+Is Tom OK?	ටොම් හොඳින්ද?
+Is Tom in?	ටොම් ඉන්නවද?
+Is it bad?	ඒක නරකයි?
+Is it bad?	ඒක නරකයි?
+Is it far?	දුරද?
+Is it you?	ඒ ඔබ?
+It burned.	එය දැවී ගියේය.
+It failed.	ඔහු එය ලබා ගත්තේ නැත.
+It failed.	අසාර්ථකයි.
+It failed.	අසාර්ථක වීම.
+It is new.	ඒක අලුත්.
+It rained.	වැස්ස.
+It snowed.	නෙවුස්.
+It stinks.	දුගඳයි.
+It worked.	ඒක වැඩ කළා.
+It's 3:10.	වෙලාව දහයයි තුනයි.
+It's 8:30.	වෙලාව 8:30යි.
+It's a TV.	එය රූපවාහිනියකි.
+It's cold.	සීතලය.
+It's cold.	එය සීතලයි.
+It's cool.	එය සීතලයි.
+It's cool.	එය නැවුම් ය.
+It's dark.	එය අඳුරු ය.
+It's done!	සූදානම්!
+It's fine.	එය පරිපූර්ණයි.
+It's good.	හරි.
+It's good.	එය හොඳයි.
+It's here.	මෙතන.
+It's hers.	ඒක ඇගේ.
+It's late.	එය ප්රමාදය.
+It's mine.	එය මගේ.
+It's mine.	එය මගේ.
+It's nice.	එය කදිමයි.
+It's nice.	හොඳ කාලගුණයක්.
+It's okay.	හරි.
+It's okay.	හරි.
+It's ours.	ඒක අපේ.
+It's ours.	ඒක අපේ.
+It's over.	අවසන් විය.
+It's over.	එය හමාරයි.
+It's time.	මොහොත පැමිණ ඇත.
+It's time.	කාලයයි.
+It's time.	එය මොහොතයි.
+It's time.	කාලය පැමිණ ඇත.
+It's true!	එය ඇත්තයි!
+It's true.	එය ඇත්තයි.
+It's work.	ඒක මගේ වැඩක්.
+Keep them.	ඒවා බේරගන්න.
+Keep them.	ඒවා තබා ගන්න.
+Keep them.	ඒවා ඔබම තබා ගන්න.
+Keep this.	මේක save කරන්න.
+Keep this.	මේක save කරන්න.
+Keep this.	මේක save කරන්න.
+Keep this.	මේක save කරන්න.
+Keep this.	මේක save කරන්න.
+Keep warm.	උණුසුම්ව සිටින්න.
+Keep warm.	උණුසුම්ව සිටින්න.
+Keep warm.	උණුසුම්ව සිටින්න.
+Keep warm.	උණුසුම්ව සිටින්න.
+Keep warm.	උණුසුම්ව සිටින්න.
+Keep warm.	උණුසුම්ව සිටින්න.
+Keep warm.	උණුසුම්ව සිටින්න.
+Keep warm.	උණුසුම්ව සිටින්න.
+Leave Tom.	එය ටොමස්ට දෙන්න.
+Leave Tom.	එය ටොමස්ට දෙන්න.
+Leave Tom.	එය ටොමස්ට දෙන්න.
+Leave now.	දැන් අයින් වෙන්න.
+Leave now.	දැන් අයින් වෙන්න.
+Leave now.	දැන් එළියට යන්න.
+Let me go!	මට යන්න දෙන්න!
+Let me go!	යන්න දෙන්න!
+Let me go!	මට යන්න දෙන්න!
+Let me go.	මට යන්න දෙන්න!
+Let me in.	මට ඇතුලට යන්න දෙන්න.
+Let me in.	මට ඇතුලට යන්න දෙන්න.
+Let us in.	අපිට ඇතුලට දෙන්න.
+Let's eat.	අපි කමු.
+Let's see.	අපි බලමු.
+Let's try!	ඒක උත්සාහ කරමු!
+Lie still.	නිශ්ශබ්දව වැතිර සිටින්න.
+Lie still.	බිම නිශ්චලව සිටින්න.
+Listen up.	සවන් දෙන්න.
+Look away.	අනිත් පැත්ත බලන්න.
+Look away.	අනිත් පැත්ත බලන්න.
+Look away.	අනිත් පැත්ත බලන්න.
+Look away.	අනිත් පැත්ත බලන්න.
+Look back!	ආපසු බලන්න!
+Look back.	ආපසු බලන්න.
+Look back.	පිටුපස බලන්න.
+Look back.	ආපසු බලන්න.
+Look here.	මෙහෙ බලන්න.
+Look here.	මෙහෙ බලන්න.
+Look here.	මෙහෙ බලන්න.
+Loosen it.	එය ලිහිල් කරන්න.
+Loosen it.	එයට යන්න දෙන්න.
+Loosen it.	යන්න දෙන්න.
+Loosen it.	එය ලිහිල් කරන්න.
+Move over.	පැත්තකට වෙන්න.
+Move over.	ඉඩ දෙන්න.
+Move over.	ඔබේ බූරුවා මාරු කරන්න.
+Move over.	සමත් වෙන්න දෙන්න.
+Nice shot!	හොද පහරක්!
+Of course!	ඇත්ත වශයෙන්!
+Open fire!	වෙඩි තියන්න!
+Open fire!	කැමැත්තෙන් ගිනි!
+Pardon me?	සමාවන්න?
+Please go.	කරුණාකර යන්න.
+Please go.	කරුණාකර යන්න.
+Please go.	කරුණාකර යන්න.
+Please go.	කරුණාකර යන්න.
+Put it on.	ඒක දාන්න.
+Put it on.	ඒක දාන්න.
+Read this.	මේක කියවන්න.
+Read this.	මේක කියවන්න.
+Read this.	මේක කියවන්න.
+Read this.	මේක කියවන්න.
+Say hello.	මම ආයුබෝවන් කිව්වා.
+Search me.	ඔවුන්ට මාව ලියාපදිංචි කිරීමට ඉඩ දෙන්න.
+See above.	ඉහළ බලන්න.
+See above.	ඉහළ බලන්න.
+Seize him!	ගිහින් එයාව ගන්න!
+Seize him!	එය ලබා ගන්න!
+Seize him!	ඔහුව අත්අඩංගුවට ගන්න!
+Seize him!	එය සක්රිය කරන්න!
+Seize him!	ඔහුව අල්ලා ගන්න!
+Seriously?	හා ඇත්තම ද?
+She tried.	ඇය උත්සාහ කළාය.
+She tried.	ඇය එය උත්සාහ කළාය.
+She walks.	ඇය ඇවිදින.
+She walks.	ඇය ඇවිදින.
+She walks.	ඉදිරියට එන්න.
+She's hot.	ඇය උණුසුම් ය.
+She's hot.	ඒක හරියට කෝච්චියක් වගේ.
+She's hot.	ඔහු පාන් ගෙන තෙත් කරයි.
+She's hot.	එය හොඳයි.
+She's hot.	එය කෙඳිරිගායි.
+Sign here.	මෙතන අත්සන් කරන්න.
+Sign this.	මේක අත්සන් කරන්න.
+Sign this.	මේක අත්සන් කරන්න.
+Sign this.	මේක අත්සන් කරන්න.
+Sign this.	මේක අත්සන් කරන්න.
+Sign this.	මේක අත්සන් කරන්න.
+Sit still.	වාඩි වෙන්න, චලනය නොවන්න.
+Sit still.	වාඩි වී නිශ්චලව සිටින්න.
+Sit there.	එතන ඉඳගන්න.
+Sit tight.	ඔයා ඉන්න.
+Slow down.	තවමත්.
+Slow down.	හිමින්.
+Stay away.	පිටතට.
+Stay away.	පලා යන්න.
+Stay calm.	සන්සුන් වන්න.
+Stay calm.	සන්සුන්ව සිටින්න.
+Stay here.	මෙතන ඉන්න.
+Stay thin.	සිහින්ව සිටින්න.
+Step back.	අඩියක් පස්සට ගන්න.
+Stop here.	මේ සඳහා.
+Stop here.	මෙතන හිටපන්.
+Stop here.	මෙතන නවත්වන්න.
+Stop here.	මෙතන නවත්වන්න.
+Stop here.	මෙතන නවත්වන්න.
+Stop here.	මෙතන නවත්වන්න.
+Stop here.	මෙතන නවත්වන්න.
+Stop that.	ඒ සඳහා.
+Stop them.	ඒවා නවත්වන්න.
+Stop them.	ඒවා නවත්වන්න.
+Take care!	ඔයා ගැන ප්රවේසම් වන්න!
+Take care!	ඔබ ඔබ ගැන බලාගන්න!
+Take care.	ඔයා ගැන ප්රවේසම් වන්න.
+Take care.	ප්රවේසම් වන්න.
+Take mine.	මගේ එක ගන්න.
+Take mine.	මගේ එක ගන්න.
+Take over.	විධානය ගන්න.
+Take over.	පාලනය කරන්න.
+Take over.	ඔයා ඒක බලාගන්න.
+Take this.	මේක ගන්න.
+Take this.	මේක ගන්න.
+Take this.	මේක ගන්න.
+Take this.	මේක ගන්න.
+Thank you.	ඔයාට ස්තූතියි!
+Thank you.	ඔබට ස්තුතියි.
+Thank you.	ඔයාට ස්තූතියි.
+That's it.	එනම්.
+That's me.	ඒ මමයි.
+That's me.	ඒ මමයි.
+Then what?	ඉතින් කුමක් ද?
+They fell.	ඔවුන් වැටුණා.
+They left.	ඔවුන් ගියා.
+They left.	ඔවුන් ගියා.
+They left.	ඔවුන් පිටත්ව යමින් සිටියා.
+They lost.	ඔවුන් පැරදුනා.
+Tom bowed.	ටොම් වැඳ වැටුණා.
+Tom cared.	ටොම් කනස්සල්ලට පත් විය.
+Tom cared.	ටොම් කනස්සල්ලට පත් විය.
+Tom cared.	ටොම් සැලකුවා.
+Tom cares.	ටොම් කනස්සල්ලට පත්ව සිටී.
+Tom cares.	ටොම් සැලකිලිමත් වේ.
+Tom cried.	ටොම් ඇඬුවා.
+Tom dozed.	ටොම් නිදාගත්තා.
+Tom drove.	තෝමස් ධාවනය කළේය.
+Tom is OK.	ටොම් හොඳයි.
+Tom is in.	ටොම් ඇතුලේ.
+Tom is up.	ටොම් නැගිට්ටා.
+Tom knits.	ටොම් ගෙතුම්.
+Tom knows.	ටොම් දන්නවා.
+Tom moved.	ටොම් ඉවත්ව ගියේය.
+Tom moved.	ටොම් මාරු විය.
+Tom rocks.	ටොම් රොක්ස්.
+Tom stood.	ටොම් නැවතී සිටියේය.
+Tom swims.	ටොම් කිසිවක් නැත.
+Tom swore.	ටොම් දිවුරුම් දුන්නේය.
+Tom tried.	ටොමස් එය උත්සාහ කළා.
+Tom tries.	ටොමස් එය උත්සාහ කරයි.
+Tom voted.	තෝමස් ඡන්දය දුන්නේය.
+Tom walks.	ටොම් ඇවිදිනවා.
+Tom waved.	ටොම් සුබ පැතුවා.
+Tom works.	ටොමස් වැඩ කරයි.
+Tom'll go.	ටොම් යනවා.
+Tom's fat.	ටොම් මහතයි.
+Tom's mad.	ටොම්ට පිස්සු.
+Tom's sad.	ටොම්ට දුකයි.
+Tom's shy.	ටොම් ලැජ්ජයි.
+Trust Tom.	ටොම් විශ්වාස කරන්න.
+Try again.	නැවත උත්සාහ කරන්න.
+Try again.	එය නැවත උත්සාහ කරන්න.
+Try again.	නැවත උත්සාහ කරන්න.
+Try it on.	එය උත්සාහ කරන්න.
+Wait here.	මෙතන ඉන්න.
+Wait here.	මෙතන ඉන්න.
+Wait here.	මෙතන ඉන්න.
+Wait here.	මෙතන ඉන්න.
+Watch Tom.	ටොම් ගැන විමසිල්ලෙන් සිටින්න.
+Watch out!	අපයෝජනය කළා!
+We can go.	අපිට යන්න පුළුවන්.
+We can go.	අපිට යන්න පුළුවන්.
+We can go.	අපිට යන්න පුළුවන්.
+We failed.	අපි අසාර්ථක වුණා.
+We failed.	අපි අසාර්ථකයි.
+We forgot.	අපිට අමතක වුනා.
+We saw it.	අපි ඒක දැක්කා.
+We saw it.	අපි ඒක දැක්කා.
+We talked.	අපි කතා කරනවා.
+We waited.	අපි බලාපොරොත්තු වෙනවා.
+We'll see.	එවිට අපි බලමු.
+We'll see.	අපි බලමු.
+We'll try.	අපි උත්සාහ කරමු.
+We've won!	අපි දිනුවා!
+What's up?	මොකක් ද වෙන්නේ?
+Who cares?	ගණන් ගන්නේ කව්ද?
+Who is he?	ඔහු කව්ද?
+Who is it?	ඌ කව් ද?
+Who knows?	අබේ...
+Who stood?	නැවතුනේ කවුද?
+Who'll go?	කවුද යන්නෙ?
+Who's Tom?	ටොම් කවුද?
+Write Tom.	ටොම්ට ලියන්න.
+You drive.	ඔබ රිය පදවන්න.
+You idiot!	මෝඩයෙක්!
+You start.	ඔබ ආරම්භ කරන්න.
+You tried.	ඔබ උත්සාහ කළාද.
+You're OK.	ඔබ සම්පූර්ණයෙන්ම හොඳයි.
+You're OK.	ඔබ සම්පූර්ණයෙන්ම හොඳයි.
+Aim higher.	ඉහළ.
+Aim higher.	ඉහළ ඉලක්කයක්.
+All aboard!	සියල්ල නැවේ!
+Am I right?	මම හරිද?
+Am I wrong?	මම වැරදියි?
+Am I wrong?	මම වැරදිද?
+Answer Tom.	පිළිතුර ටොමස්!
+Answer Tom.	පිළිතුර ටොමස්!
+Answer Tom.	පිළිතුර ටොමස්!
+Are you 18?	ඔබ දහඅටක්ද?
+Are you 18?	ඔබට දහඅට පිරුණාද?
+Are you OK?	ඔයාට හොඳයි ද?
+Are you in?	ඔබ ලියාපදිංචි වෙනවාද?
+Are you in?	ඔයා ඇතුලේද?
+Are you up?	ඔබ වේ?
+Ask anyone.	කාගෙන් හරි අහන්න.
+Ask anyone.	කාගෙන් හරි අහන්න.
+Ask anyone.	කාගෙන් හරි අහන්න.
+Ask anyone.	කාගෙන් හරි අහන්න.
+Ask around.	මෙතනින් අහන්න.
+Ask around.	අවට විමසන්න.
+Be careful.	ප්රවේසම් වන්න!
+Be careful.	ප්රවේසම් වන්න!
+Be content.	සතුටු වන්න.
+Be on time.	නියමිත වේලාවට පැමිණෙන්න.
+Be on time.	නියමිත වේලාවට පැමිණෙන්න.
+Be patient.	ඉක්මන් නොවන්න.
+Be serious.	සීරියස් වෙන්න.
+Birds sing.	කුරුල්ලෝ ගායනා කරති.
+Birds sing.	කුරුල්ලෝ ගායනා කරති.
+Bring food.	කෑම ගේන්න.
+Bring help.	උදව් ගේන්න.
+Bring wine.	වයින් ගේන්න.
+Can I come?	මට යන්න පුළුවන්?
+Can I come?	මට එන්න පුළුවන්ද?
+Can I come?	මට ළං වෙන්න පුළුවන්ද?
+Can I help?	මට පුළුවන් උදව් කරන්න?
+Can I stay?	මට ඉන්න පුළුවන්ද?
+Carry this.	මේක ගන්න.
+Check that.	එය පරීක්ෂා කරන්න.
+Check this.	මෙය පරීක්ෂා කරන්න.
+Choose one.	එකක් තෝරන්න.
+Come again.	නැවත එන්න.
+Come alone.	තනියම එන්න.
+Come along.	එන්න.
+Come along.	ඉදිරියට එන්න.
+Come early.	මම කලින් ආවා.
+Come early.	කලින් එන්න.
+Come early.	කලින් එන්න.
+Come early.	කලින් එන්න.
+Come on in!	එය සමත්!
+Come on in!	එය සමත්!
+Come on in!	ඔහුව පසුකර යන්න!
+Come on in.	අතර.
+Come on in.	සිදුවේ.
+Come quick!	ඉක්මනින් එන්න!
+Come quick!	ඉක්මනින් එන්න!
+Come to me.	මා වෙත එන්න.
+Come to me.	මා වෙත එන්න.
+Come to us.	අප වෙත පැමිණෙන.
+Come to us.	අප වෙත පැමිණෙන.
+Cut it out!	දැන් නවතින්න!
+Did Tom go?	ඒ ටොම් ද?
+Do come in!	එය සමත්!
+Do come in!	එය සමත්!
+Do come in!	ඔහුව පසුකර යන්න!
+Do come in.	ඇතුලට යන්න.
+Do come in.	එකපාරටම ඇතුලට එන්න.
+Do come in.	දැන් ඇතුලට එන්න.
+Do come in.	ඇතුලට එන්න.
+Do men cry?	පිරිමි අඬනවද?
+Don't come.	එන්න එපා.
+Don't jump!	පනින්න එපා!
+Don't look.	බලන්න එපා.
+Don't move!	චලනය නොවන්න!
+Don't move.	චලනය නොවන්න.
+Don't move.	චලනය නොවන්න.
+Don't move.	චලනය නොවන්න.
+Don't sing.	ගයන්න එපා.
+Don't sing.	සින්දු කියන්න එපා.
+Don't stop.	නවත්වන්න එපා.
+Don't talk!	කතා කරන්න එපා!
+Don't talk.	කතා කරන්න එපා.
+Don't wait.	ඉන්න එපා!
+Don't wait.	ඉන්න එපා!
+Don't wait.	ඉන්න එපා.
+Don't yell.	කෑගහන්න එපා.
+Eat slowly.	සෙමින් කන්න.
+Eat slowly.	සෙමින් කන්න!
+Fire burns.	ගින්න ඇවිලේ.
+Follow Tom.	ටොමස් අනුගමනය කරන්න.
+Follow Tom.	තෝමස් අනුගමනය කරන්න.
+Follow Tom.	ටොමස් අනුගමනය කරන්න.
+Follow Tom.	තෝමස් අනුගමනය කරන්න.
+Follow him.	ඔහුව අනුගමනය කරන්න.
+Follow him.	ඔහුව අනුගමනය කරන්න.
+Forget Tom.	ටොමස් ගැන අමතක කරන්න.
+Forget Tom.	ටොමස් ගැන අමතක කරන්න.
+Forget Tom.	තෝමස් අමතක කරන්න.
+Forget him.	ඒක අමතක කරන්න.
+Forgive us.	අපට සමාව දෙන්න.
+Forgive us.	අපට සමාව දෙන්න.
+Get a life.	ජීවිතයක් ලබාගන්න.
+Get inside.	ඇතුල් වේ.
+Get to bed.	ඇඳට යන්න.
+Give it up.	එය අතහරින්න.
+Go on home.	ගෙදර යන්න.
+Go on home.	ගෙදර යන්න.
+Go see Tom.	ටොම් බලන්න යන්න.
+Go to work.	වැඩට යන්න.
+God exists.	දෙවියන් ඉන්නවා.
+Have faith.	විශ්වාසය ඇතිකරගන්න.
+Have faith.	විශ්වාසය ඇතිකරගන්න.
+Have faith.	විශ්වාසය ඇතිකරගන්න.
+Have faith.	විශ්වාසය.
+He ate out.	ඔහු කෑමට එළියට ගියේය.
+He coughed.	ඔහු කැස්ස.
+He gave in.	ඔහු අත්හැරියා.
+He gave up.	ඔහු අත්හැරියා.
+He gave up.	මම යනවා.
+He gave up.	ඔහු යටත් විය.
+He gave up.	තුවාය විසි කළා.
+He hung up.	ඔහු අතට ගත්තේය.
+He hung up.	ඔහු දුරකථනය අතට ගත්තේය.
+He is a DJ.	ඔහු ඩී.ජේ.
+He is here!	ඔහු මෙහෙ!
+He is kind.	ඔහු මෘදුයි.
+He is kind.	ඔහු කරුණාවන්තයි.
+He is kind.	ඔහු නිර්ලෝභී ය.
+He is mean.	ඔහු නපුරු ය.
+He is tall.	ඔහු උසයි.
+He laughed.	ඔහු හිනාවුනා.
+He made it.	ඔහු එය කළා.
+He made it.	ඔහු එය කළා.
+He made it.	කළා.
+He's broke.	එයා කැඩිලා.
+He's broke.	ඒක විනාශ වෙලා.
+He's cruel.	ඔහු කුරිරු ය.
+He's lying.	ඔහු බොරු කියනවා.
+He's lying.	ඔහු බොරු කියනවා.
+He's smart.	එය බුද්ධිමත් ය.
+He's smart.	ඔහු බුද්ධිමත් ය.
+Here he is!	මේ තියෙන්නේ!
+Here he is!	මෙහි වන!
+Here it is.	මේ තියෙන්නේ.
+Here we go.	මෙන්න අපි යනවා.
+Hey, relax.	හේයි, සන්සුන් වෙන්න.
+Hold still.	තවමත්.
+Hold still.	නිශ්චලව ඉන්න.
+How boring!	කොතරම් කම්මැලිද!
+How is Tom?	ටොම් කොහොමද?
+How lovely!	කොච්චර ලස්සනද!
+How lovely!	ආකර්ශනීය!
+How lovely!	එය අලංකාරයක්!
+How tragic!	ඉතින් ඛේදජනකයි!
+How's work?	කොහොමද වැඩ කටයුතු?
+How's work?	වැඩ කටයුතු සිදු වන්නේ කෙසේද?
+Hurry home.	ඉක්මන්, ගෙදර.
+Hurry home.	දුවන්න, ගෙදර යන්න.
+I admit it.	මම ඒක පිළිගන්නවා.
+I am a man.	මම මිනිහෙක්.
+I am a man.	මම පුද්ගලයෙක්.
+I am bored.	මට එපා වෙලා.
+I am happy.	මට සතුටුයි!
+I am happy.	මට සතුටුයි!
+I am happy.	මම සෑහීමකට පත්වෙමි.
+I am human.	මම මනුෂ්‍යයෙක්.
+I am ready.	මම සුදානම්.
+I am tired.	මම කැඩිලා.
+I broke it.	මම ඒක කැඩුවා.
+I can help.	මට පුළුවන් උදව් කරන්න.
+I can jump.	මට පනින්න පුළුවන්.
+I can read.	මම කියවන්න දන්නවා.
+I can sing.	මට සින්දු කියන්න පුළුවන්.
+I can swim.	මම පීනන්න දන්නවා.
+I chuckled.	මම හිනැහුනා.
+I disagree.	මම එකඟවෙන්නේ නැහැ.
+I doubt it.	මම එය සැක කළා.
+I eat here.	මෙතන වගේම.
+I eat here.	මම මෙතන කනවා.
+I eat meat.	මම මස් කනවා.
+I envy Tom.	මම ටොම්ට ඊර්ෂ්‍යා කරනවා.
+I envy him.	මම ඔහුට ඊර්ෂ්‍යා කරනවා.
+I feel bad.	මට සනීප නැහැ.
+I feel old.	මට වයස දැනෙනවා.
+I felt bad.	මට නරකක් දැනුණා.
+I found it.	මම එය සොයාගත්තා!
+I found it.	මම ඒක හොයාගත්තා.
+I got lost.	මම අතරමං වුණා.
+I got sick.	මම අසනීප වුණා.
+I hate Tom.	මම ටොම්ට වෛර කරනවා.
+I hate you.	මම උඹට වෛර කරනවා.
+I have one.	මට එකක් තියෙනවා.
+I have one.	මට එකක් තියෙනවා.
+I have won.	මම දිනුම්.
+I hear you.	මට ඔයාව ඇහෙනවා.
+I help him.	මම ඔයාට උදව් කරනවා.
+I knew Tom.	මට ටොම් මුණ ගැහුණා.
+I know Tom.	මම ටොම්ව දන්නවා.
+I know her.	මම ඇයව දන්නවා.
+I know him.	මම එය දන්නවා.
+I know now.	මම දැන් දන්නවා.
+I like Tom.	මම ටොම්ට කැමතියි.
+I like art.	මම කලාවට කැමතියි.
+I like him.	මම ඔහුට කැමතියි.
+I like him.	මම ඔහුට කැමතියි.
+I like tea.	මම තේ වලට කැමතියි.
+I like you.	මම ඔයාට කැමතියි.
+I liked it.	මම කැමති වුණා.
+I love Tom.	මම ටොමස්ට ආදරෙයි.
+I love him.	මම ඔහුට ආදරෙයි.
+I love him.	මම ඔහුට ආදරෙයි.
+I love you.	මම ඔයාට ආදරෙයි.
+I love you.	මම ඔයාට ආදරෙයි.
+I love you.	මම ඔයාට ආදරෙයි!
+I love you.	මම ඔයාට ආදරෙයි.
+I loved it.	මම ආදරය කලා.
+I miss Tom.	මට ටොම් නැතුව පාලුයි.
+I miss him.	මට ඒයාව දැනෙනවා.
+I miss him.	මට ඒයාව දැනෙනවා.
+I miss you.	මට ඔයාව දැනෙනවා.
+I must run.	මට දුවන්න වෙනවා.
+I need Tom.	මට ටොම් අවශ්‍යයි.
+I need ice.	මට අයිස් අවශ්යයි.
+I promised.	මම පොරොන්දු වුණා.
+I ran home.	මම ගෙදර දිව්වා.
+I ran home.	මම ඉක්මනට ගෙදර ගියා.
+I remember.	මට මතකයි.
+I remember.	මට මතකයි.
+I remember.	මට මතකයි.
+I resigned.	මම අත්හැරියා.
+I said yes.	මම ඔව් කිව්ව.
+I said yes.	මම ඔව් කිව්ව.
+I sat down.	මම වාඩි වුණා.
+I sat down.	මම ඉඳගත්තා.
+I saw that.	මම ඒක දැක්කා.
+I saw that.	ඒක දැක්කා.
+I saw that.	මම ඒක දැක්ක.
+I screamed.	මම කෑ ගැහුවා.
+I screamed.	මම කෑගසමි.
+I see them.	මම ඔවුන්ව දකිනවා.
+I see them.	මම ඔවුන්ව දකිනවා.
+I shot Tom.	මම ටොම්ට වෙඩි තිබ්බා.
+I survived.	මම බේරුණා.
+I think so.	මම එසේ සිතනවා.
+I think so.	මම එසේ සිතනවා.
+I threw up.	මම වමනය කළා.
+I told Tom.	මම ටොම්ට කිව්වා.
+I told Tom.	මම ටොම්ට කිව්වා.
+I use this.	මම මේක පාවිච්චි කරනවා.
+I use this.	මම මේක පාවිච්චි කරනවා.
+I want Tom.	මම ටොම්ට ආදරෙයි.
+I want one!	මට එකක් ඕන!
+I want one!	මට එකක් ඕන!
+I want one.	මට එකක් ඕන.
+I want one.	මට එකක් ඕන.
+I was last.	මම තමයි අන්තිමයා.
+I was last.	එය අන්තිම එක විය.
+I was late.	මම පරක්කු වෙලා ආවා.
+I was sick.	මට අසනීප වුණා.
+I won't go.	මම යන්නේ නෑ.
+I work out.	මම ව්‍යායාම කරනවා.
+I wrote it.	මම ඒක ලිව්වා.
+I'd buy it.	මම එය මිලදී ගන්නම්.
+I'll be OK.	මම හොඳින් ඉන්නම්.
+I'll do it.	මම කරන්නම්.
+I'll do it.	මම ඒක කරන්නම්.
+I'll go in.	මම ඇතුලට යන්නම්.
+I'll go in.	මම ඇතුලට යනවා.
+I'm a hero.	මම වීරයෙක්.
+I'm a liar.	මම බොරුකාරයෙක්.
+I'm a twin.	මම නිවුන් දරුවෙක්.
+I'm better.	මම හොඳින්.
+I'm bushed.	මට මහන්සියි.
+I'm buying.	මම මිලදී ගන්නවා.
+I'm clumsy.	මම ගොළු වෙලා.
+I'm coming.	ඔන්න මම යනවා.
+I'm eating.	මම කනවා.
+I'm faster.	මම වේගවත්.
+I'm greedy.	මම කෑදරයි.
+I'm hiding.	මම සැඟවී සිටිමි.
+I'm hungry!	මට බඩගිනියි.
+I'm hungry!	කැට්ෆිෂ් මාව හපනවා.
+I'm hungry.	කැට්ෆිෂ් මාව හපනවා.
+I'm immune.	මම ප්‍රතිශක්තිය ඇත්තෙමි.
+I'm moving.	මම යනවා.
+I'm moving.	මම මාරු වෙන්නම්.
+I'm normal.	මම සාමාන්‍යයි.
+I'm scared.	මට බයයි.
+I'm single.	මම තනිකඩයි.
+I'm single.	මම තනිකඩයි.
+I'm single.	මම තනිකඩයි.
+I'm skinny.	මම කෙට්ටුයි.
+I'm sleepy!	මට නිදිමතයි!
+I'm sleepy!	මට නිදිමතයි.
+I'm sleepy.	මට නිදිමතයි.
+I'm so fat.	මම ගොඩක් මහතයි.
+I'm so fat.	මම ගොඩක් මහතයි.
+I'm trying.	මම උත්සාහ කරමින් සිටිනවා.
+I'm trying.	මම මහන්සි වෙනවා.
+I'm twelve.	මට වයස අවුරුදු දොළහයි.
+I'm twelve.	මට දොළොස් දෙනෙක් ඉන්නවා.
+I've eaten.	මම කෑවා.
+Ignore Tom.	ටොම් නොසලකා හරින්න.
+Ignore him.	ඔහුව නොසලකා හරින්න.
+Is Tom big?	ටොම් ලොකුද?
+Is Tom fat?	ටොම් මහතද?
+Is Tom fun?	ටොම් විහිළුවක්ද?
+Is Tom hot?	ටොම් උණුසුම්ද?
+Is Tom ill?	ටොම් අසනීප වෙලාද?
+Is Tom mad?	ටොම්ට පිස්සුද?
+Is Tom out?	ටොම් අවුට්ද?
+Is he dead?	මැරිලා?
+Is he tall?	ඉහළ ද?
+Is it free?	එය නොමිලේ?
+Is it good?	එය හොඳයි?
+Is it here?	එය මෙහි තිබේද?
+Is it here?	මෙතන?
+Is it here?	මෙතන?
+Is it real?	මේක ඇත්තද?
+Is it safe?	එය ආරක්ෂිතද?
+Is it true?	එය ඇත්තයි?
+Is that OK?	ඒක වටිනවද?
+Is that OK?	ඒක ප්රශ්ණයක් නොවෙයි?
+Is that it?	එච්චරයි?
+Is that it?	ඒකද?
+Is that so?	ඒක එහෙමද?
+Is that so?	එසේ ද?
+Is this OK?	මේක හොඳයි?
+Is this it?	එච්චරයි?
+Is this it?	මේක?
+It happens.	එහෙම වෙනවා.
+It is cold.	එය සීතලයි.
+It is mine.	එය මගේ.
+It's Tom's.	එය ටොම්ගේ ය.
+It's alive.	ඒකට පන තියනවා.
+It's empty.	එය හිස් ය.
+It's great.	එය විශිෂ්ටයි.
+It's great.	එය විශිෂ්ටයි.
+It's green.	එය කොළ පාටයි.
+It's green.	එය කොළ පාටයි.
+It's magic.	මායාවකි.
+It's my CD.	ඒක මගේ සීඩී එක.
+It's night.	රෑ වෙලා.
+It's night.	එය අඳුරු වී ඇත.
+It's on me.	ඒක මගෙන්.
+It's ready.	සූදානම්.
+It's right.	හරි.
+It's right.	හරි.
+It's right.	ඒක හරි.
+It's there.	තියෙනව ද.
+It's white.	එය සුදු ය.
+It's windy.	සුළං සහිත.
+It's yours.	එය ඔබගේ ය.
+It's yours.	එය ඔබගේ ය.
+Jesus wept.	යේසුස් කෑගැසුවා.
+Just do it.	හුදෙක් එය කරන්න.
+Keep it up!	දිගටම යන්න!
+Keep it up!	දිගටම!
+Keep notes.	සටහන් ගන්න.
+Keep notes.	සටහන් ගන්න.
+Keep notes.	සටහන් ගන්න.
+Keep quiet!	සන්සුන්ව සිටින්න!
+Keep quiet!	නිහඬව සිටින්න!
+Keep still.	නිශ්චලව ඉන්න.
+Keep still.	නිශ්චලව ඉන්න.
+Keep still.	නිශ්චලව ඉන්න.
+Keep still.	නිශ්චලව ඉන්න.
+Leave town.	නගරය හැර යන්න.
+Leave town.	නගරය හැර යන්න.
+Leave town.	නගරයෙන් පිටතට යන්න.
+Let Tom go.	ටොම්ට යන්න දෙන්න.
+Let Tom in.	ටොම්ට ඇතුලට යන්න දෙන්න.
+Let him go!	ඔහුට යන්න දෙන්න!
+Let him go.	එයට යන්න දෙන්න.
+Let him in.	එයාට ඇතුලට යන්න දෙන්න.
+Let him in.	එයාට ඇතුලට යන්න දෙන්න.
+Let him in.	එයාට ඇතුලට යන්න දෙන්න.
+Let him in.	එයාට ඇතුලට යන්න දෙන්න.
+Let him in.	එයාට ඇතුලට යන්න දෙන්න.
+Let me out!	මට එළියට යන්න දෙන්න!
+Let me out!	මට එළියට යන්න දෙන්න!
+Let me out.	මට එළියට යන්න දෙන්න!
+Let me pay.	මට ගෙවන්න දෙන්න.
+Let me see.	කෝ මම බලන්න.
+Let me see.	කෝ මම බලන්න.
+Let me see.	අපි බලමු.
+Let's chat.	අපි කතා කරමු.
+Let's chat.	අපි කතා කරමු.
+Let's kiss.	අපි සිප ගනිමු.
+Let's play.	අපි ක්රීඩා කරමු.
+Let's pray.	යාච්ඤා කරමු.
+Let's pray.	යාච්ඤා කරමු.
+Let's quit.	අපි අතහරිමු.
+Let's quit.	අපි අතහරිමු.
+Let's sing.	ගයමු.
+Let's swim.	අපි පිහිනමු.
+Let's talk.	අපි කතා කරමු.
+Let's vote.	ඡන්දය දෙමු.
+Let's walk.	අපි පයින් යමු.
+Let's work.	අපි වැඩ කරමු.
+Lift it up.	එය ඔසවන්න.
+Look again.	නැවත බලන්න.
+Look again.	නැවත බලන්න.
+Look again.	නැවත බලන්න.
+Look again.	නැවත බලන්න.
+Look ahead.	ඉදිරිය බලන්න.
+Look ahead.	ඉදිරිය බලන්න.
+Look ahead.	ඉදිරිය බලන්න.
+Look ahead.	ඉදිරිය බලන්න.
+Look at it.	ඒක බලන්න.
+Look at it.	එය නිරීක්ෂණය කරන්න.
+Look at it.	එය මෙනෙහි කරන්න.
+Look at me.	මා දෙස බලන්න.
+Look at us.	අපි දිහා බලන්න.
+Look at us.	අපිව බලාගන්න.
+Look it up.	එය සොයන්න.
+Look it up.	ඒ සඳහා බලන්න.
+Look there.	ඔතන බලන්න.
+Love lasts.	ආදරය පවතිනවා.
+Mama cried.	අම්මා ඇඬුවා.
+No comment.	ප්රතිචාරයක් නැත.
+No kidding?	හා ඇත්තම ද?
+No problem!	ප්රශ්නයක් නැහැ!
+No problem!	ප්රශ්නයක් නැහැ!
+No problem.	ප්රශ්නයක් නැහැ.
+Please sit.	කරුණාකර වාඩිවෙන්න.
+Please sit.	කරුණාකර වාඩිවෙන්න.
+Please sit.	කරුණාකර වාඩිවෙන්න.
+Quiet down.	ඔබේ හඬ පහත් කරන්න.
+Replace it.	එය වෙනුවට.
+Say cheese.	අර්තාපල් කියන්න.
+Say cheese.	මම අර්තාපල් කිව්වා.
+Say cheese.	විස්කි කියන්න.
+Say cheese.	විස්කි කියන්න.
+Say cheese.	සිනාසෙන්න.
+Say please.	කරුණාකර කියන්න".
+Shadow him.	ඔහුව අනුගමනය කරන්න.
+She is old.	වයසයි.
+She smiled.	ඔහු සිනාසුණේය.
+She's busy.	ඇය කාර්යබහුලයි.
+She's nice.	ඇය ලස්සනයි.
+Sing along.	ගායනා කරයි.
+Smell this.	මේ සුවඳ බලන්න.
+Smell this.	මට මේක සුවඳ දැනුණා.
+Smell this.	මේ සුවඳ බලන්න.
+Smell this.	හේ මේ.
+Smell this.	මේ සුවඳ බලන්න.
+Stand back!	අහකට වෙන්න!
+Start here.	මෙතනින් පටන්ගන්න.
+Start over.	නැවත පටන් ගන්න.
+Stay alert.	අවදියෙන් සිටින්න.
+Stay awake.	දැනුවත්ව සිටින්න.
+Stay awake.	අවදියෙන් සිටින්න.
+Stay awake.	නිදාගන්න එපා.
+Stay close.	සමීපව තබා ගන්න.
+Stay close.	මෙතනින් යන්න එපා.
+Stay close.	මගේ ළගින් ඉන්න.
+Stay sharp.	අවදියෙන් සිටින්න.
+Stay still.	චලනය නොවන්න.
+Stay still.	තවමත්.
+Stay there.	මෙතන ඉන්න.
+Step aside.	පැත්තකට වෙන්න.
+Step on it!	ඉක්මනින්!
+Stop lying.	බොරු කියන එක නවත්තන්න.
+Stop lying.	පන්දු යැවීම නවත්වන්න.
+Stop there.	එතනම නවතින්න.
+Study hard.	මහන්සි වෙලා පාඩම් කරන්න.
+Study more.	තව අධ්‍යයනය කරන්න.
+Take a bus.	බස් එකක් ගන්න.
+Take notes.	සටහන් ගන්න.
+Take these.	මේවා මෙතනින් ගන්න.
+Take these.	මේවා තියාගන්න.
+Talk to me!	මට කියන්න!
+Talk to me!	මට කථා කරන්න!
+Talk to me!	මට කථා කරන්න!
+Taste this.	මේක උත්සාහ කරන්න.
+Taste this.	මේක උත්සාහ කරන්න.
+Taste this.	මේක උත්සාහ කරන්න.
+That a boy!	ඒ මගේ කොල්ලා!
+That a boy!	හොඳ මිනිහා.
+That hurts.	ඒක රිදෙනවා.
+That works.	ඒක වැඩ කරනවා.
+That'll do.	ඒක කරයි.
+That'll do.	ඒක හොදයි.
+That'll do.	ඒක මට වටිනවා.
+That'll do.	ඒක මට වැඩ.
+That's Tom.	ඒ තමයි ටොම්.
+That's her.	ඒ ඇයයි.
+That's her.	ඒ ඇයයි.
+That's him.	ඒ ඔහුය.
+That's his.	ඒක අයිති ඔයාට.
+That's his.	ඒක අයිති එයාට.
+That's new.	ඒක අලුත්.
+That's wet.	එය තෙත් වේ.
+They cheat.	ඔවුන් වංචා කළා.
+They cheat.	ඔවුන් වංචා කළා.
+They stood.	ඔවුන් ඉතිරි විය.
+They stood.	ඔවුන් ඉතිරි විය.
+They tried.	ඔවුන් උත්සාහ කළා.
+They voted.	ඔවුන් ඡන්දය දුන්නා.
+They voted.	ඔවුන් ඡන්දය දුන්නා.
+They're in.	ඒවා ඇතුලේ.
+They're in.	ඒවා ඇතුලේ.
+They're in.	ඔවුන් ලියාපදිංචි වෙනවා.
+This is OK.	මේක හොඳයි.
+This is OK.	මේක හරි.
+This is it.	අපි පැමිණ ඇත.
+This is it.	මේ අවසානයයි.
+This is it.	මෙම සියලු වේ.
+This is it.	මෙය.
+This works.	මෙය ක්රියා කරයි.
+This works.	මෙය ක්රියා කරයි.
+This'll do.	මෙය සිදු කරනු ඇත.
+This'll do.	මේකත් එක්ක කමක් නෑ.
+This'll do.	මේක මට ඇති.
+Time flies.	කාලය ඉගිලී යයි.
+Time is up.	කාලය ඉවරයි.
+Tom agreed.	ටොම් කැමැත්තෙන් එකඟ විය.
+Tom agreed.	ටොම් එකඟ විය.
+Tom agrees.	තෝමස් එකඟ වේ.
+Tom bit me.	ටොම් මාව කෑවා.
+Tom burped.	තෝමස් කෑගැසුවේය.
+Tom called.	ටොම් ඇමතුවා.
+Tom cheats.	ටොමස් වංචා කරයි.
+Tom danced.	තෝමස් නැටුවා.
+Tom dances.	ටොම් නටනවා.
+Tom did it.	ටොම් ඒක කළා.
+Tom drinks.	ටොම් බබා.
+Tom drinks.	ටොම් මෙතන.
+Tom drives.	ටොමස් ධාවනය කරයි.
+Tom failed.	ටොම් අසාර්ථක විය.
+Tom failed.	ටොම් අසාර්ථක විය.
+Tom forgot.	ටොම්ට අමතක වුනා.
+Tom fought.	ටොම් සටන් කළා.
+Tom fought.	ටොම් අරගල කළා.
+Tom gasped.	ටොම් හුස්ම ගත්තා.
+Tom gasped.	ටොම් හුස්ම ගත්තා.
+Tom gasped.	ටොම් හුස්ම ගත්තා.
+Tom goofed.	ටොම් කෙලෙව්වා.
+Tom got up.	ටොම් නැගිට්ටා.
+Tom helped.	ටොම් උදව් කළා.
+Tom hit me.	ටොම් මට ගැහුවා.
+Tom is bad.	ටොම් නරකයි.
+Tom is big.	ටොම් ලොකුයි.
+Tom is fat.	ටොම් මහතයි.
+Tom is fun.	ටොම් විහිළුවක්.
+Tom is ill.	ටොම් නරකයි.
+Tom is mad.	ටොම්ට පිස්සු.
+Tom is new.	ටොම් අලුත්.
+Tom is odd.	ටොම් අමුතුයි.
+Tom is old.	ටොම් වයසයි.
+Tom is out.	ටොම් එළියේ.
+Tom is sad.	ටොම්ට දුකයි.
+Tom is shy.	ටොම් ලැජ්ජයි.
+Tom is wet.	ටොම් තෙත් වේ.
+Tom jumped.	ටොම් පැන්නා.
+Tom looked.	ටොම් බැලුවා.
+Tom moaned.	ටොම් කෙඳිරි ගෑවේය.
+Tom nodded.	ටොම් හිස වැනුවේය.
+Tom obeyed.	ටොම් කීකරු විය.
+Tom paused.	ටොම් නැවතුණා.
+Tom phoned.	ටොමස් දුරකථනයෙන් කතා කළේය.
+Tom phoned.	ටොමස් දුරකථනයෙන් කතා කළේය.
+Tom prayed.	ටොම් යාච්ඤා කළා.
+Tom prayed.	ටොම් යාච්ඤා කළා.
+Tom saw it.	ටොම් ඒක දැක්කා.
+Tom saw me.	ටොම් මාව දැක්කා.
+Tom saw us.	ටොම් අපිව දැක්කා.
+Tom shaved.	ටොම් රැවුල කැපුවා.
+Tom shaved.	ටොම් රැවුල කැපුවා.
+Tom sighed.	ටොම් සුසුම්ලමින් සිටියේය.
+Tom smiled.	ටොම් සිනාසුණේය.
+Tom snores.	ටොම් ගොරවනවා.
+Tom stayed.	ටොම් නැවතී සිටියේය.
+Tom talked.	ටොම් කතා කළා.
+Tom waited.	තෝමස් බලා සිටියේය.
+Tom walked.	ටොම් ඇවිද ගියේය.
+Tom was OK.	ටොම් හොඳින් හිටියා.
+Tom winked.	ටොම් ඇහැක් ගැහුවා.
+Tom winked.	ටොම් ඇහැක් ගැහුවා.
+Tom winked.	ටොම් ඇහැක් ගැහුවා.
+Tom worked.	ටොම් වැඩ කළා.
+Tom yawned.	ටොම් ඇඹරුනා.
+Tom yelled.	ටොම් කෑගැසුවා.
+Tom'll cry.	ටොම් හඬනු ඇත.
+Tom'll die.	ටොම් මිය යනු ඇත.
+Tom'll pay.	ටොම් ගෙවනු ඇත.
+Tom's busy.	ටොම් කාර්යබහුලයි.
+Tom's dead.	ටොම් මැරිලා.
+Tom's deaf.	ටොම් බිහිරි ය.
+Tom's died.	ටොම් මැරිලා.
+Tom's fast.	ටොම් වේගවත්.
+Tom's free.	ටොම් නිදහස්.
+Tom's glad.	ටොම් සතුටුයි.
+Tom's gone.	ටොම් ගිහින්.
+Tom's here.	ටොම් මෙතන.
+Tom's home.	ටොම් ගෙදර.
+Tom's hurt.	ටොම්ට තුවාලයි.
+Tom's left.	ටොම් ගියා.
+Tom's mean.	ටොම් නරකයි.
+Tom's safe.	ටොම් විශ්වාසයි.
+Tom's shot.	ටොම්ට වෙඩි තිබ්බා.
+Tom's sick.	ටොම් අසනීපයි.
+Tom's ugly.	ටොම් කැතයි.
+Tom's weak.	ටොම් දුර්වලයි.
+Tom's well.	ටොම් හොඳයි.
+Try it out.	එය පරීක්ෂා කරන්න.
+Turn it on.	එය ක්‍රියාත්මක කරන්න.
+Turn right.	දකුණට හරවන්න.
+Was he Tom?	ඒ ටොම් ද?
+Was it fun?	එය විනෝදජනකද?
+Was it fun?	එය විනෝදජනකද?
+Watch this.	මේ දෙස බලන්න.
+Watch this.	මේ දෙස බලන්න.
+Watch this.	මේ දෙස බලන්න.
+Watch this.	මේ දෙස බලන්න.
+Watch this.	මේක බලන්න.
+We are men.	අපි පිරිමි.
+We buy CDs.	අපි සීඩී තැටි මිලදී ගනිමු.
+We can pay.	අපිට ගෙවන්න පුළුවන්.
+We can try.	අපිට උත්සහ කරන්න පුළුවන්.
+We can try.	අපට එය උත්සාහ කළ හැකිය.
+We can try.	අපිට උත්සහ කරන්න පුළුවන්.
+We can win.	අපිට දිනන්න පුළුවන්.
+We had fun.	අපි විනෝද වුණා.
+We had fun.	අපි හොඳ කාලයක් ගත කළා.
+We laughed.	අපි හිනා වෙනවා.
+We like it.	අපි කැමති.
+We love it.	අපි ආදරෙයි.
+We made it.	අපි ඒක කළා.
+We must go.	අපි යා යුතුයි.
+We must go.	අපි යා යුතුයි.
+We saw Tom.	අපි ටොම්ව දැක්කා.
+We saw you.	අපි ඔයාව දැක්කා.
+We saw you.	අපි ඔයාව දැක්කා.
+We want it.	අපට එය අවශ්‍යයි.
+We'll cook.	අපි කෑම හදමු.
+We'll fail.	අපි අසාර්ථක වනු ඇත.
+We'll help.	අපි උදව් කරන්නම්.
+We'll help.	අපි උදව් කරන්නම්.
+We'll help.	අපි අත දෙන්නම්.
+We'll sing.	අපි ගායනා කරන්නෙමු.
+We'll wait.	අපි බලා සිටිමු.
+We'll wait.	අපි බලා සිටිමු.
+We'll walk.	අපි ඇවිදින්න යනවා.
+We'll work.	අපි වැඩ කරන්නම්.
+We're back.	අපි ආපහු ආවා.
+We're back.	අපි ආපහු ආවා.
+We're back.	අපි ආපහු ආවා.
+We're busy.	අපි කාර්යබහුලයි.
+We're cold.	අපි සීතලයි.
+We're done.	අවසන්.
+We're even.	අපි සමානයි.
+We're fine.	අපි හොඳින්.
+We're here.	අපි මෙතන ඉන්නවා.
+We're home.	අපි ඉන්නේ ගෙදර.
+We're lost.	අපි අතරමං වෙලා.
+We're poor.	අපි දුප්පත්.
+We're rich.	අපි පොහොසත්.
+We're rich.	අපි පොහොසත්.
+We're sick.	අපිට මහන්සියි.
+We're weak.	අපි දුර්වලයි.
+What a day!	නමුත් මොන දවසක්ද!
+What gives?	සිද්ධවන්නේ කුමක් ද?
+What gives?	මොකක් ද වෙන්නේ?
+What's new?	මොනවද අළුත්?
+What's new?	මොකක් ද වෙන්නේ?
+Where am I?	මම කොහෙද ඉන්නෙ?
+Where am I?	මම කොහෙද ඉන්නේ?
+Who is Tom?	ටොම් කවුද?
+Who phoned?	දුරකථනයෙන් කතා කළේ කවුද?
+Who stayed?	නැවතුනේ කවුද?
+Who yelled?	කවුද කෑ ගැහුවේ?
+Who's here?	කවුද මෙතන ඉන්නේ?
+Who's next?	කාලය ලබා දෙන්නේ කවුද?
+Who's that?	ඌ කව් ද?
+Who's that?	ඒ කව් ද?
+Who's that?	ඇය කව් ද?
+Wood burns.	දර පිච්චෙනවා.
+You called?	ඇමතුවාද?
+You can go.	ඔබට යන්න පුළුවන්.
+You can go.	ඔබට යන්න පුළුවන්.
+You can go.	ඔබට යන්න පුළුවන්.
+You can go.	යන්න පුළුවන්.
+You decide.	ඔබට බාරයි.
+You may go.	ඔබට යන්න පුළුවන්.
+You may go.	ඔබට යන්න පුළුවන්.
+You may go.	ඔබට යන්න පුළුවන්.
+You may go.	ඔබට යන්න පුළුවන්.
+You may go.	යන්න පුළුවන්.
+You may go.	ඔබට යන්න පුළුවන්.
+You may go.	ඔබට යන්න පුළුවන්.
+You missed.	ඔබ අසාර්ථකයි.
+You'll see.	ඔබ දකීවි.
+You'll see.	ඔබ දකිවී.
+You're bad.	ඔයා නරකයි.
+You're big.	ඔයා ලොකුයි.
+You're big.	ඔයා ලොකුයි.
+You're old.	ඔබ වයසයි.
+You're sad.	ඔයාට දුකයි.
+You've won!	ඔබ දිනුවා!
+All is well.	සියල්ල හොඳින් සිදුවෙමින් පවතී.
+All is well.	සෑම දෙයක්ම නිවැරදියි.
+Anyone home?	ගෙදර කවුරුහරි ඉන්නවද?
+Anyone home?	ගෙදර කවුරුහරි ඉන්නවද?
+Anyone hurt?	කව්රුන් හෝ තුවාල වීද?
+Are we done?	අපි ඉවරද?
+Are you Tom?	ඔයා ටොම්ද?
+Are you Tom?	ඔයා ටොම්ද?
+Are you hot?	ඔබ උණුසුම්ද?
+Are you hot?	ඔබ උණුසුම්ද?
+Are you mad?	ඔබට පිස්සු?
+Are you mad?	ඔයා තරහද?
+Are you mad?	ඔයාට පිස්සු ද?
+Are you mad?	ඔයාට පිස්සු ද?
+Are you new?	ඔබ අලුත්ද?
+Are you new?	ඔබ අලුත්ද?
+As you like.	ඔයාට ඕන කුමක් වුව ද.
+As you like.	ඔයා කැමති විදිහට.
+As you like.	ඔයා කැමති පරිදි.
+As you like.	ඔයා කැමති පරිදි.
+Ask anybody.	කාගෙන් හරි අහන්න.
+Be creative.	නිර්මාණශීලී වන්න.
+Be discreet.	විචක්ෂණශීලී වන්න.
+Be merciful.	දයාවන්ත වන්න.
+Be prepared.	සූදානම් වෙන්න.
+Be prepared.	සූදානම් වෙන්න.
+Be punctual.	වෙලාවට වැඩ කරන්න.
+Be punctual.	වෙලාවට වැඩ කරන්න.
+Be sensible.	සාධාරණ වන්න.
+Be sensible.	සාධාරණ වන්න.
+Be specific.	නිශ්චිත වන්න.
+Be specific.	එය සඳහන් කරයි.
+Be specific.	තවත් සඳහන් කරන්න.
+Be thorough.	සම්පූර්ණ වෙන්න.
+Be tolerant.	ඉවසීමෙන් කටයුතු කරන්න.
+Be vigilant.	විමසිලිමත් වන්න.
+Be watchful.	පරීක්ෂාකාරී වන්න.
+Beer's good.	බියර් හොඳයි.
+Can I begin?	මට ආරම්භ කළ හැකිද?
+Can it wait?	එය බලා සිටිය හැකිද?
+Can we talk?	අපිට කතා කරන්න පුළුවන්ද?
+Can we talk?	අපිට කතා කරන්න පුළුවන්ද?
+Can you see?	ඔබට දැකිය හැකිද?
+Can you see?	ඔබට දැකිය හැකිද?
+Check again.	එය නැවත පරීක්ෂා කරන්න.
+Check again.	එය නැවත පරීක්ෂා කරන්න.
+Come aboard.	නැග්ගා.
+Come closer.	ළඟට එන්න.
+Come see me.	මාව හමුවන්න.
+Come see me.	මාව බලන්න එන්න.
+Come see me.	මාව බලන්න එන්න.
+Come see me.	මාව හමුවීමට එන්න.
+Comfort Tom.	සැනසීම ටොම්.
+Contact Tom.	ටොම් අමතන්න.
+Cook for me.	මාව උයන්න.
+Cook for me.	මට උයන්න.
+Count me in.	මාව ගණන් ගන්න.
+Count on it.	එය ගණන් කරන්න.
+Count on it.	එය ගණන් කරන්න.
+Count on me.	මාව ගණන් ගන්න.
+Did Tom die?	ටොම් මැරිලාද?
+Did you win?	දිනුවාද?
+Do as I say.	මම කියන දේ කරන්න.
+Do it again!	එය නැවත කරන්න!
+Do it again.	එය නැවත කරන්න.
+Do it later.	දැන් එය කරන්න.
+Do it later.	ටික වේලාවකට පසු එය කරන්න.
+Do you bowl?	ඔබ පන්දු යවනවද?
+Don't argue.	තර්ක කරන්න එපා.
+Don't cheat.	කොපි කරන්න එපා.
+Don't do it!	එය කරන්න එපා!
+Don't do it.	එය කරන්න එපා!
+Don't do it.	ඒක කරන්න එපා!
+Don't do it.	ඒක කරන්න එපා!
+Don't do it.	එය කරන්න එපා!
+Don't fight.	රණ්ඩු වෙන්න එපා.
+Don't go in.	ඇතුළු නොවන්න.
+Don't go in.	ඔබම ඇතුල් නොවන්න.
+Don't laugh.	හිනාවෙන්න එපා.
+Don't leave!	යන්න එපා!
+Don't shoot!	වෙඩි තියන්න එපා!
+Don't shoot!	වෙඩි තියන්න එපා!
+Don't shoot!	වෙඩි තියන්න එපා!
+Don't shout.	කෑගහන්න එපා.
+Don't shout.	කෑගහන්න එපා.
+Don't smile.	හිනා වෙන්න එපා.
+Don't smile.	හිනා වෙන්න එපා.
+Don't smoke.	දුම් බොන්න එපා.
+Don't smoke.	දුම් පානය නොකරන්න.
+Don't speak.	කතා කරන්න එපා.
+Don't worry.	කලබල වෙන්න එපා.
+Don't worry.	කණගාටු නොවන්න.
+Finish this.	මේක ඉවර කරන්න.
+Finish this.	මේක ඉවර කරන්න.
+Finish this.	මේක ඉවර කරන්න.
+Finish this.	මේක ඉවර කරන්න.
+Finish this.	මේක ඉවර කරන්න.
+Flip a coin.	කාසියක් උඩ දමන්න.
+Flip a coin.	කාසියක් උඩ දමන්න.
+Get dressed.	ඔබේ ඇඳුම් ඇඳගන්න.
+Get in here!	මෙහි ඇතුළු වන්න!
+Get serious!	බැරෑරුම් වන්න!
+Get started.	ආරම්භය.
+Go find Tom.	ටොම්ව හොයාගෙන යන්න.
+Go find Tom.	ටොම්ව හොයාගෙන යන්න.
+Go find Tom.	ටොම්ව හොයාගෙන යන්න.
+Go find out.	ගිහින් දැනගන්න.
+Go for help.	උදව් සඳහා යන්න.
+Go get help.	ගිහින් උදව් ඉල්ලන්න.
+Go help Tom.	ටොම්ට උදව් කරන්න යන්න.
+Go home now.	දැන් ගෙදර යන්න.
+Go meet Tom.	ටොම් බලන්න යන්න.
+Go on ahead.	ඉදිරියට යන්න.
+Go straight.	කෙලින්ම යන්න.
+Go that way.	ඒ පැත්තට යන්න.
+Go that way.	එතනට යන්න.
+Go to sleep.	නිදියන්න යන්න.
+Go to sleep.	නිදියන්න යන්න!
+Go to sleep.	නිදියන්න යන්න!
+Go to sleep.	නිදියන්න යන්න!
+Go with Tom.	ටොම් එක්ක යන්න.
+Grab a seat.	වාඩිවෙන්න.
+Has he come?	ඔහු පැමිණ තිබේද?
+Has he come?	ඔහු පැමිණ තිබේද?
+Have a look.	බලන්න.
+Have a seat.	අසුන් ගන්න.
+He can come.	එයාට එන්න පුළුවන්.
+He can read.	ඔහු කියවන්න දන්නවා.
+He can swim.	ඔහු පීනන්න දන්නවා.
+He found it.	ඔහු එය සොයා ගත්තේය.
+He got away.	ඔහු පලා ගියේය.
+He grew old.	ඔහු වයසට ගියේය.
+He has come!	එය පැමිණ ඇත!
+He has guts.	ඔහුට ධෛර්යයක් ඇත.
+He has wine.	එහි වයින් තිබේ.
+He helps us.	ඔහු අපට උදව් කරයි.
+He is alone.	ඔහු තනියම.
+He is drunk.	එයා බීලා.
+He is eight.	ඔහුට වයස අවුරුදු අටකි.
+He is happy.	සතුටුයි.
+He is happy.	ඔහු සතුටුයි.
+He is hated.	ඔහු වෛර කරයි.
+He is lying.	ඔහු බොරු කියනවා.
+He is lying.	ඔහු බොරු කියනවා.
+He is nasty.	ඔහු සල්ලාලයෙකි.
+He is nasty.	ඔහු පිළිකුල් සහගත ය.
+He is nasty.	ඔහු උරා බොයි.
+He is tired.	ඔහුට මහන්සියි.
+He is young.	ඔහු තරුණයි.
+He likes me.	එයා මට කැමති වුණා.
+He likes me.	එයාට මාව ඕන.
+He resigned.	ඔහු ඉල්ලා අස්විය.
+He stood up.	ඔහු නැගී සිටියි.
+He was busy.	ඔහු කාර්ය බහුල විය.
+He's a jerk.	ඔහු පොන්නයෙක්.
+He's a liar.	ඔහු බොරුකාරයෙකි.
+He's faking.	එයා මවාපානවා.
+He's not in.	මෙතන නැහැ.
+He's not in.	එයා ගෙදර නෑ.
+He's not in.	එයා ගෙදර නෑ.
+He's not in.	එයා ඇතුලේ නෑ.
+He's skinny.	ඔහු කෙට්ටුයි.
+He's strong.	ඔහු ශක්තිමත්.
+He's stupid.	ඔහු මෝඩයි.
+He's stupid.	ටැංකියේ වතුර නැහැ.
+He's stupid.	ඒක සලාමි එකක්.
+Help me out.	මට උපකාර කරන්න.
+Help me out.	මට එළියට යන්න උදව් කරන්න.
+Help me out.	මට ඔබේ අත දෙන්න.
+Help me out.	මට එළියට යන්න උදව් කරන්න.
+Here I come.	ඔන්න මම ආවා.
+Here I come.	මම දැන් මෙතන,
+Here she is!	මෙන්න ඇය!
+Here we are!	මෙන්න අපි!
+Here we are.	මෙන්න අපි.
+How curious!	මොනතරම් කුතුහලයක්ද!
+How strange!	මොනතරම් අමුතු දෙයක්ද!
+How strange!	කොච්චර අමුතුද.
+I am a cook.	මම චෙෆ් කෙනෙක්.
+I am a monk.	මම භික්ෂුවක්.
+I am better.	මම හොඳින්.
+I am better.	මම වඩා හොඳයි.
+I am better.	මට හොඳක් දැනෙනවා.
+I am dozing.	මට නින්ද යනවා.
+I am eating.	මම කනවා.
+I am hungry.	මට බඩගිනියි.
+I am hungry.	කැට්ෆිෂ් මාව හපනවා.
+I am joking.	මම එහාට මෙහාට යනවා.
+I am joking.	මම කියවනවා.
+I am single.	මම තනිකඩයි.
+I am single.	මම තනිකඩයි.
+I am single.	මම තනිකඩයි.
+I am taller.	මම උසයි.
+I apologize.	මම සමාව ඉල්ලනවා.
+I asked Tom.	මම ටොම්ගෙන් ඇහුවා.
+I blame Tom.	මම ටොම්ට දොස් කියනවා.
+I bought it.	මම එය මිලදී ගත්තා.
+I bought it.	මම එය මිලදී ගත්තා.
+I came last.	මම අන්තිමයා.
+I came last.	මම අන්තිම තැනට ආවා.
+I came last.	මම අන්තිමයා.
+I can do it.	මට එය කරන්න පුළුවන්.
+I can share.	මට බෙදාගන්න පුළුවන්.
+I can't eat.	මට කන්න බෑ.
+I can't say.	මට ඒක කියන්න බෑ.
+I can't say.	මම කියන්න බැහැ.
+I confessed.	මම පාපොච්චාරණය කළා.
+I cry a lot.	මම ගොඩක් අඬනවා.
+I don't eat.	ලෙස නොවේ.
+I eat bread.	පාන් වගේ.
+I eat fruit.	පළතුරු වගේ.
+I feel sick.	මට සනීප නැහැ.
+I felt cold.	මම සීතල විය.
+I felt dumb.	මට මෝඩකමක් දැනුනා.
+I felt that.	මට ඒක දැනුනා.
+I forgot it.	මට ඒක අමතක වුනා.
+I found you.	මම දැනටමත් ඔබව සොයාගෙන ඇත.
+I found you.	මම ඔයාව සොයාගත්තා.
+I got a job.	මම රැකියාවක් සොයාගත්තා.
+I got angry.	මට තරහ ගියා.
+I had to go.	මට යන්න වුණා.
+I hate cats.	මම බළලුන්ට වෛර කරනවා.
+I hate dogs.	මම බල්ලන්ට වෛර කරනවා.
+I hate dogs.	මම බල්ලන්ට වෛර කරනවා.
+I hate milk.	මම කිරි වලට වෛර කරනවා.
+I hate rats.	මම මීයන්ට වෛර කරනවා.
+I hate sand.	මම වැලි වලට වෛර කරනවා.
+I hate sand.	මම වැලි වලට වෛර කරනවා.
+I hated Tom.	මම ටොම්ට වෛර කළා.
+I hated Tom.	මම ටොම්ට වෛර කළා.
+I have $300.	මට ඩොලර් තුන්සීයක් තියෙනවා.
+I have news.	මම ප්‍රවෘත්ති ගේනවා.
+I have time.	මට වෙලාව තියෙනවා.
+I have wine.	මට වයින් තියෙනවා.
+I hear that.	මට ඒක ඇහෙනවා.
+I heard you.	මට ඔයාව ඇහුණා.
+I heard you.	මම ඔබව අසා ඇත්තෙමි.
+I hired Tom.	මම ටොම්ව කුලියට ගත්තා.
+I knew that.	මම එය දැනගත්තා.
+I knew that.	මම ඒක දැන සිටියා.
+I know that.	මම එය දන්නවා.
+I know them.	මම ඒවා දන්නවා.
+I know this.	මේක මම දන්නවා.
+I know this.	මම මේක දන්නවා.
+I know this.	මම මේක දන්නවා.
+I like both.	මම දෙකටම කැමතියි.
+I like dogs.	මම බල්ලන්ට කැමතියි.
+I like jazz.	මම ජෑස් වලට කැමතියි.
+I like milk.	මම කිරි වලට කැමතියි.
+I like rice.	මම බත් වලට කැමතියි.
+I like rock.	මම ගල්කට කැමතියි.
+I like snow.	මම හිම වලට කැමතියි.
+I like that.	මම එයට කැමතියි.
+I like them.	මම ඔවුන්ට කැමති.
+I like this.	මම මෙයට කැමතියි.
+I like wine.	මම වයින් වලට කැමතියි.
+I liked Tom.	මම ටොම්ට ආදරය කළා.
+I live here.	මම මෙහි වාසය කරමි.
+I live here.	මම මෙහි වාසය කරමි.
+I love beer.	මම බියර් වලට කැමතියි.
+I love dogs.	මම බල්ලන්ට ආදරෙයි.
+I love fish.	මම මාළු වලට ආදරෙයි.
+I love golf.	මම ගොල්ෆ් ක්‍රීඩාවට කැමතියි.
+I love kids.	මම දරුවන්ට ආදරෙයි.
+I love kids.	මම කොල්ලන්ට ආදරෙයි.
+I love life.	මම ජීවිතයට ආදරෙයි.
+I love math.	මම ගණිතයට ආදරෙයි.
+I love math.	මම ගණිතයට කැමතියි.
+I love rock.	මම ගල්කට කැමතියි.
+I love rock.	මම රොක් සංගීතයට කැමතියි.
+I love snow.	මම හිම වලට ආදරෙයි.
+I love snow.	මම හිම වලට කැමතියි.
+I love soup.	මම සුප් වලට කැමතියි.
+I loved her.	මම ඇයට ආදරය කළා.
+I loved her.	මම ඇයට ආදරය කළා.
+I loved her.	මම ඇයට ආදරය කළා.
+I loved you.	මම ඔබට ආදරය කළා.
+I loved you.	මම ඔබට ආදරය කළා.
+I loved you.	මම ඔබට ආදරය කළා.
+I loved you.	මම ඔබට ආදරය කළා.
+I loved you.	මම ඔබට ආදරය කළා.
+I loved you.	මම ඔබට ආදරය කළා.
+I made that.	මම ඒක කළා.
+I mean that.	ඒකයි මම කියන්නේ.
+I missed it.	මට මග හැරුණා.
+I must hide.	මම සැඟවිය යුතුයි.
+I need help.	මට උපකාර අවශ්යයි.
+I need help.	මට උපකාර අවශ්යයි!
+I need mine.	මට මගේ එක අවශ්‍යයි.
+I need mine.	මට මගේ එක අවශ්‍යයි.
+I need them.	මට ඒවා අවශ්‍යයි.
+I need this.	මට මේක ඕනි.
+I need time.	මට කාලය අවශ්‍යයි.
+I needed it.	මට එය අවශ්‍ය විය.
+I never win.	මම කවදාවත් දිනන්නේ නැහැ.
+I often ski.	මම නිතර ස්කීං යනවා.
+I overslept.	මම නිදා වටෙනවා.
+I pay taxes.	මම බදු ගෙවනවා.
+I read lips.	මම තොල් කියෙව්වා.
+I said stop.	මම කිව්වා නවතින්න.
+I said stop.	මම කිව්වා නවතින්න.
+I said stop.	මම කිව්වා නවතින්න.
+I said that.	මම ඒ ගැන පවසයි.
+I saw a UFO.	මම UFO එකක් දැක්කා.
+I saw a dog.	මම බල්ලෙක් දැක්කා.
+I saw a dog.	මම බල්ලෙක් දැක්කා.
+I saw a dog.	මම බල්ලෙක් දැක්කා.
+I sell cars.	මම කාර් විකුණනවා.
+I should go.	මම යා යුතුයි.
+I smell gas.	මට ගෑස් සුවඳයි.
+I smell gas.	මට ගෑස් සුවඳයි.
+I thank you.	මම එය අගය කරනවා.
+I trust her.	මට ඇයව විශ්වාසයි.
+I trust him.	මම ඔහුව විශ්වාස කරනවා.
+I trust you.	මම ඔයාව විශ්වාස කරනවා.
+I want mine.	මට මගේ එක ඕන.
+I want mine.	මට මගේ එක ඕන.
+I want mine.	මට මගේ එක ඕන.
+I want more.	මට තව ඕනේ.
+I want that.	මට ඒක ඕනේ.
+I want them.	මම ආදරේ.
+I want them.	මම ඒවාට කැමතියි.
+I want this.	මට මේක ඕන.
+I want this.	මට මේක ඕන.
+I was awake.	මම අවදියෙන් සිටියෙමි.
+I was bored.	මට කම්මැලිය.
+I was dizzy.	මට කරකැවිල්ල ආවා.
+I was dizzy.	මට කරකැවිල්ල ආවා.
+I was drunk.	මම බීමත්ව සිටියා.
+I was fired.	මාව අයින් කළා.
+I was fired.	මාව අයින් කළා.
+I was lucky.	මම වාසනාවන්ත විය.
+I was naive.	මම බොළඳ විය.
+I was naked.	ඔහු සිටියේ නිරුවතින්.
+I was right.	මම හරි.
+I was tired.	මට මහන්සියි.
+I was wrong.	මම වැරදියි.
+I went home.	මම ගෙදර ගියා.
+I went, too.	මමත් ගියා.
+I will wait.	මම බලා ඉන්නම්.
+I will work.	වැඩට යන්න.
+I won again.	මම නැවතත් දිනුවා.
+I won't ask.	මම අහන්නේ නැහැ.
+I work here.	මම මෙතන වැඩ කරනවා.
+I'd ask Tom.	මම ටොම්ගෙන් අහන්නම්.
+I'll change.	මම වෙනස් කරන්නම්.
+I'll try it.	මම එය උත්සාහ කරන්නම්.
+I'm 17, too.	මටත් අවුරුදු 17ක් තියෙනවා.
+I'm a baker.	මම බේකර් කෙනෙක්.
+I'm a loser.	මම පරාජිතයෙක්.
+I'm a loser.	මම පරාජිතයෙක්.
+I'm a woman.	මම කාන්තාවක්.
+I'm a woman.	මම කාන්තාවක්.
+I'm at home.	මම ගෙදර ඉන්නේ.
+I'm at home.	මම දැන් ගෙදර.
+I'm at home.	මම ගෙදර ඉන්නේ.
+I'm baffled.	මම ප්‍රහේලිකාවක්.
+I'm cooking.	මම උයනවා.
+I'm curious.	මම කුතුහලයෙන් සිටිමි.
+I'm dancing.	මම නටනවා.
+I'm engaged.	මම කැපවී සිටිමි.
+I'm excited.	මම කලබලයි.
+I'm excited.	මම කලබලයි.
+I'm fasting.	මම නිරාහාරව සිටිමි.
+I'm finicky.	මම අහින්සකයි.
+I'm healthy.	මම නිරෝගීව සිටිමි.
+I'm in jail.	මම හිරේ.
+I'm in love.	මම ඉන්නේ ආදරයෙන්.
+I'm jittery.	මම කලබලයි.
+I'm jittery.	මම නොසන්සුන්.
+I'm kidding.	මම එහාට මෙහාට යනවා.
+I'm leaving.	යන්න.
+I'm married.	මම විවාහකයි.
+I'm married.	මම විවාහකයි.
+I'm married.	මම විවාහකයි.
+I'm married.	මම විවාහකයි.
+I'm nervous.	මම කලබලයි.
+I'm neutral.	මම මධ්‍යස්ථයි.
+I'm no liar.	මම බොරුකාරයෙක් නෙවෙයි.
+I'm not Tom.	මම ටොම් නෙවෙයි.
+I'm not fat.	මම මහත නැහැ.
+I'm not fat.	මම මහත නොවේ!
+I'm not old.	මම වයසක නැහැ.
+I'm not sad.	මට දුකක් නෑ.
+I'm not shy.	මම ලැජ්ජ නැහැ.
+I'm patient.	මම ඉවසනවා.
+I'm psyched.	මම මනෝ විකාරයි.
+I'm reading.	මම කියවනවා.
+I'm resting.	මම විවේක ගනිමින් සිටිමි.
+I'm selfish.	මම ආත්මාර්ථකාමීයි.
+I'm serious.	මම බැරෑරුම්.
+I'm serious.	මම බැරෑරුම්.
+I'm sloshed.	මම බීමත්ව සිටිමි.
+I'm so full.	මම හොඳටම පිරිලා.
+I'm starved.	මම බඩගින්නේ!
+I'm starved.	මට බඩගිනියි.
+I'm through.	මම ඉවරයි.
+I'm too fat.	මම මහත වැඩියි.
+I'm trapped.	මම කොටු වෙලා.
+I'm unlucky.	මට නරක වාසනාවක් ඇත.
+I'm waiting.	මම බලාගෙන ඉන්නවා.
+I'm working.	මම ඉන්නේ වැඩ කරමින්.
+I'm worried.	මම වද වෙනවා.
+Ignore them.	ඒවා නොසලකා හරින්න.
+Is Tom dead?	ටොම් මැරිලාද?
+Is Tom done?	ටොම් ඉවරද?
+Is Tom good?	ටොම් හොඳද?
+Is Tom here?	ටොම් මෙතනද?
+Is Tom here?	ටොම් ඉන්නවද?
+Is Tom home?	ටොම් ගෙදරද?
+Is Tom home?	ටොම් ගෙදරද?
+Is Tom hurt?	ටොම්ට තුවාලද?
+Is he right?	ඔහු හොඳින්ද?
+Is he right?	ඔහු හොඳින්ද?
+Is he right?	ඔබ එය නිවැරදිව තේරුම් ගත්තාද?
+Is he right?	ඔයා හරි?
+Is he right?	ඔහු කියන්නේ එයද?
+Is it there?	තියෙනව ද?
+Is it to go?	යාමට?
+Is it windy?	එය සුළං සහිතද?
+Is it yours?	ඒක ඔයාගේ?
+Is it yours?	ඒක ඔයාගේද?
+Is she nice?	ඇය සානුකම්පිතද?
+Is that Tom?	ඒ ටොම් ද?
+Is that all?	එච්චරයි?
+Is that new?	ඒක අලුත්ද?
+Is that you?	ඒ ඔබ?
+Is that you?	ඔබද?
+Is this new?	මේක අලුත්ද?
+It can't be!	එය නිකම්ම විය නොහැක!
+It cost $30.	ඒ සඳහා ඩොලර් 30 ක් වැය විය.
+It happened.	සමත් විය.
+It happened.	එසේ සිදු වූ.
+It is on me.	මම ආරාධනා කරනවා.
+It is there.	තියෙනව ද.
+It may rain.	වැසි ඇති විය හැක.
+It may snow.	හිම වැටෙන්න පුළුවන්.
+It may snow.	එය හිම විය හැක.
+It may snow.	හිම වැටෙන්න පුළුවන්.
+It saved me.	එයා මාව බේරගත්තා.
+It was cool.	එය සිසිල් විය.
+It was cool.	එය සිසිල් විය.
+It was cool.	ඔහු සිසිල් විය.
+It was easy.	එය පහසු විය.
+It was easy.	එය පහසු විය.
+It was real.	එය සැබෑ විය.
+It's 50 yen.	එය යෙන් 50 කි.
+It's Monday.	එය සඳුදාය.
+It's a doll.	ඒක බෝනික්කෙක්.
+It's a fish.	එය මාළුවෙක්.
+It's a harp.	ඒක වීණාවක්.
+It's a harp.	මේක වීණාවක්.
+It's a joke.	ඒක විහිළුවක්.
+It's a mess.	ඒක අවුල්.
+It's a rule.	එය නියාමනයකි.
+It's a song.	මේක සින්දුවක්.
+It's a vice.	එය දුර්ගුණයකි.
+It's all OK.	ඔක්කොම හොඳයි.
+It's boring.	මේක කම්මැලියි.
+It's boring.	ඒක නීරසයි.
+It's broken.	ඒක කැඩිලා.
+It's broken.	ඒක කැඩිලා.
+It's broken.	ඒක කැඩිලා.
+It's chilly.	සිසිල් ය.
+It's chilly.	එය හොඳයි.
+It's chilly.	ඒකෙන් ඔයාට නොපෙනෙන බිරුජියක් හැදෙනවා.
+It's cloudy.	වළාකුළු සහිතයි.
+It's futile.	එය නිෂ්ඵලය.
+It's my job.	ඒක මගේ වැඩක්.
+It's normal.	එය සාමාන්යයි.
+It's not us.	ඒ අපි නෙවෙයි.
+It's secret.	ඒක රහසක්.
+Just say no.	එපා කියන්න.
+Keep moving.	දිගටම යන්න.
+Keep trying.	දිගටම උත්සහ කරන්න.
+Let me help.	මට ඔබට උදව් කිරීමට ඉඩ දෙන්න.
+Let me help.	මට උදව් කරන්න දෙන්න.
+Let me know.	මට දැනගන්න සලස්වන්න.
+Let me live.	මට ජීවත් වෙන්න දෙන්න.
+Let's begin.	අපි පටන් ගනිමු!
+Let's begin.	අපි පටන් ගනිමු.
+Let's dance.	අපි නටමු.
+Let's do it!	අපි එය කරමු!
+Let's do it.	අපි එය කරමු.
+Let's go in.	අපි ඇතුලට යමු.
+Let's go up.	අපි උඩට යමු.
+Let's hurry.	අපි ඉක්මන් කරමු.
+Let's leave.	අපි යමු.
+Let's party!	අපි සාදයට යමු!
+Let's party.	අපි සමරමු.
+Let's relax.	අපි සිසිල් කරමු.
+Let's start!	අපි පටන් ගනිමු!
+Let's start!	අපි පටන් ගනිමු.
+Let's start.	අපි පටන් ගනිමු.
+Life is fun.	ජීවිතය විනෝදජනකයි.
+Look at Tom.	ටොම් දිහා බලන්න.
+Look at him.	ඒක බලන්න.
+Look closer.	සමීපව බලන්න.
+Make a list.	ලැයිස්තුවක් සාදන්න.
+Make a list.	ලැයිස්තුවක් සාදන්න.
+Make a wish.	ප්රාර්ථනාවක් කරන්න.
+Many thanks.	ඔයාට බොහෝම ස්තූතියි!
+Memorize it.	එය මතක තබා ගන්න.
+Memorize it.	එය මතක තබා ගන්න.
+Money talks.	මුදල් ලෝකය චලනය කරයි.
+Money talks.	සල්ලි මහත්මයා බලවත් මහත්මයෙක්.
+Nice timing.	හරියට වෙලාවට.
+Nice timing.	ඔබ හොඳින් පැමිණේ.
+Nice timing.	ඔබ නියමිත වේලාවට පැමිණේ.
+No means no.	නැහැ කියන්නේ නැහැ.
+No means no.	නැත යන්නෙහි තේරුම "නැත" යන්නයි.
+No one came.	කවුරුත් ආවේ නැහැ.
+No one came.	කවුරුත් ආවේ නැහැ.
+No one came.	කවුරුත් ආවේ නැහැ.
+No one died.	කිසිවෙක් මිය ගියේ නැත.
+No one died.	කවුරුත් මැරුණේ නැහැ.
+Nobody came.	කවුරුත් ආවේ නැහැ.
+Nobody came.	කවුරුත් ආවේ නැහැ.
+Nobody came.	කිසිවෙක් පෙනී සිටියේ නැත.
+Nobody died.	කිසිවෙක් මිය ගියේ නැත.
+Nobody died.	කවුරුත් මැරුණේ නැහැ.
+Nobody knew.	කිසිවෙක් දැන සිටියේ නැත.
+Nobody lied.	කවුරුත් බොරු කිව්වේ නැහැ.
+Now I'm sad.	දැන් මට දුකයි.
+Now help me.	දැන් මට උදව් කරන්න.
+Now hold on.	දැන් විරුද්ධ වෙන්න.
+Now move on.	දැන් දිගටම කරගෙන යන්න.
+Now move on.	දැන් දිගටම කරගෙන යන්න.
+Now move on.	දැන් දිගටම කරගෙන යන්න.
+Now shut up.	දැන් කටවහගෙන ඉන්න.
+OK. I agree.	හොඳයි මම එකඟයි.
+One is blue.	එකක් නිල් පාටයි.
+Please sing.	කරුණාකර ගායනා කරන්න.
+Please stay.	කරුණාකර ඉන්න.
+Please stay.	කරුණාකර ඉන්න.
+Please stay.	කරුණාකර ඉන්න.
+Please stay.	කරුණාකර ඉන්න.
+Please stop.	මොහොතකට නවතින්න.
+Please wait.	විනාඩියක් ඉන්න.
+Put it down.	එය පහළට.
+Put this on.	මේක දාන්න.
+Put this on.	මේක දාන්න.
+Release him.	ඔහුව නිදහස් කරන්න.
+Remember it.	එය මතක තබා ගන්න.
+Return fire.	ඔවුන්ගේ වෙඩි තැබීම් වලට ප්‍රතිචාර දක්වන්න.
+Say goodbye.	මම සමුගත්තා.
+Say nothing.	මුකුත් කියන්න එපා.
+Send him in.	ඇතුලට යවන්න.
+Send him in.	ඇතුලට යවන්න.
+Send him in.	එයාව ඇතුලට යවන්න.
+Send him in.	ඇතුලට යවන්න.
+Send him in.	එයාව ඇතුලට යවන්න.
+Send him in.	එයාව ඇතුලට යවන්න.
+Send him in.	එයාව ඇතුලට යවන්න.
+Send him in.	එයාව ඇතුලට යවන්න.
+Shall we go?	අපි යමු?
+She bit him.	ඇය ඔහුව සපා කෑවාය.
+She hit him.	ඇය ඔහුට පහර දුන්නාය.
+She hit him.	ඇය ඔහුට පහර දුන්නාය.
+She is dead.	ඇය මිය ගොස් ඇත.
+She is kind.	ඇය කරුණාවන්තයි.
+She is kind.	ඇය මෘදුයි.
+She woke up.	ඇය අවදි විය.
+She's a fox.	ඇය ගණිකාවක්.
+She's crazy.	ඇයට පිස්සු ය.
+Should I go?	මම යා යුතුයි?
+Show me how.	මට පෙන්නන්න කොහොමද කියල.
+Sleep tight.	හොඳින් නිදාගන්න.
+Speak to me.	මට කියන්න.
+Stand aside!	පැත්තකට!
+Stand aside!	ඉඩ දෙන්න!
+Start again.	නැවත පටන් ගන්න.
+Start again.	නැවත පටන් ගන්න.
+Stick to it!	දිගටම කරන්න.
+Stop crying.	අඩන්න එපා.
+Stop crying.	අඬන එක නවත්තන්න.
+Stop moving!	චලනය නොවන්න!
+Stop moving!	එහෙ ඉන්න!
+Stop moving!	නිශ්චලව සිටින්න!
+Stop moving.	චලනය නොවන්න.
+Stop moving.	චලනය නවත්වන්න.
+Stop trying.	උත්සාහය නවත්වන්න.
+Stop! Thief!	අධි! හොරා!
+Take a card.	කාඩ්පතක් එළියට ගන්න.
+Take a card.	කාඩ්පතක් එළියට ගන්න.
+Take a look.	බලන්න.
+Take a rest.	විවේක ගන්න.
+Take a rest.	විවේක ගන්න.
+Take action.	පියවර ගන්න.
+Take my car.	මගේ කාර් එක ගන්න.
+Take my car.	මගේ කාර් එක ගන්න.
+Talk to Tom.	ටොම්ට කතා කරන්න.
+Tea, please.	කරුණාකර තේ.
+That helped.	ඒක උදව් කළා.
+That is all.	ඒක තමයි.
+That is all.	එච්චරයි.
+That worked.	ඒක වැඩ කළා.
+That's dumb.	ඒක මෝඩ වැඩක්.
+That's easy.	ඒක ලේසියි.
+That's fine.	හරි.
+That's good.	ඒක හොඳයි.
+That's good.	ඒකට කමක් නැහැ.
+That's hers.	ඒක ඇගේ.
+That's hers.	එය ඔබගේ ය.
+That's huge.	ඒක අති විශාලයි.
+That's life.	ඒක තමයි ජීවිතේ.
+That's life.	මෙයයි ජීවිතය.
+That's mine.	ඒක මගේ.
+That's mine.	ඒක මගේ.
+That's mine.	මගේ බව.
+That's nice.	එය කදිමයි.
+That's nice.	හරි.
+That's nice.	ඒක හොඳයි.
+That's okay.	මේක හරි.
+That's over.	එය හමාරයි.
+That's over.	එය දැනටමත් සිදුවී ඇත.
+That's them.	ඔවුන් ඉන්නවා.
+That's them.	ඔවුන්ද.
+That's them.	ඒවාද.
+That's true.	එය ඇත්ත.
+That's true.	එය ඇත්ත.
+The TV's on.	රූපවාහිනිය ක්‍රියාත්මකයි.
+There it is!	එය අතන!
+There's Tom.	ටොම් ඉන්නවා.
+They burned.	ඔවුන් ගිනිබත් කළා.
+They called.	ඔවුන් ඇමතුවා.
+They danced.	ඔවුන් නැටුවා.
+They did it.	ඔවුන් එය කළා.
+They did it.	ඔවුන් එය කළා.
+They did it.	ඔවුන් එය කළා.
+They did it.	ඔවුන් එය කළා.
+They hugged.	ඔවුන් වැළඳ ගත්තා.
+They kissed.	ඔවුන් සිප ගත්තා.
+They may go.	ඔවුන් යන්න ඇති.
+They may go.	සමහරවිට ඔවුන් යාවි.
+They may go.	සමහරවිට ඔවුන් යාවි.
+They obeyed.	ඔවුන් කීකරු වුණා.
+They saw me.	ඔවුන් මාව දැක්කා.
+They saw me.	ඔවුන් මාව දැක්කා.
+They smiled.	ඔව්හු සිනාසුණහ.
+They waited.	ඔවුන් බලා සිටියා.
+They walked.	ඔවුන් ඇවිද ගියහ.
+They walked.	ඔවුන් ඇවිද ගියහ.
+They walked.	ඔවුන් ඇවිද ගියහ.
+They yelled.	ඔවුහු කෑ ගැසූහ.
+They're bad.	නරක ය.
+They're bad.	ඔවුන් නරකයි.
+They're new.	ඒවා අලුත්.
+They're new.	ඒවා අලුත්.
+They're old.	ඒවා පරණයි.
+They're old.	ඔවුන් වයසින් වැඩි ය.
+They're old.	ඔවුන් වයසයි.
+They're old.	ඔවුන් වයසින් වැඩි ය.
+Think again.	නැවත සිතන්න.
+Think again.	නැවත සිතන්න.
+This is Tom.	මේ ටොම්.
+This is bad.	ඒක නරකයි.
+This is big.	මේක ලොකුයි.
+This is his.	මෙය ඔබගේ ය.
+This is his.	මෙය ඔබගේ ය.
+This is his.	මෙය ඔහුගෙන්.
+This is ice.	මෙය අයිස්.
+This stinks.	මේක අපරාදේ.
+This stinks.	මේක ගොන් වැඩක්.
+Tom arrived.	ටොම් ආවා.
+Tom ate out.	ටොම් කෑමට එළියට ගියා.
+Tom blushed.	ටොම් රතු විය.
+Tom changed.	ටොම් වෙනස් විය.
+Tom changed.	ටොම් වෙනස් විය.
+Tom cheated.	තෝමස් වංචා කළා.
+Tom cheered.	ටොම් තමයි චියර් කළේ.
+Tom cheered.	ටොම් සතුටු විය.
+Tom clapped.	තෝමස් ප්‍රශංසා කළේය.
+Tom crashed.	ටොම්ට අනතුරක් සිදු විය.
+Tom crashed.	ටොම් ඒකට ගැහුවා.
+Tom crashed.	ටොම් කඩා වැටුණා.
+Tom decided.	ටොම් තීරණය කළා.
+Tom drowned.	තෝමස් දියේ ගිලී මිය ගියේය.
+Tom escaped.	ටොම් පැන ගියේය.
+Tom exhaled.	ටොම් හුස්මක් පිට කළේය.
+Tom fainted.	ටොම් ක්ලාන්ත විය.
+Tom giggled.	ටොම් හිනැහුනා.
+Tom gloated.	ටොම් සතුටු විය.
+Tom grinned.	ටොම් සිනාසුණේය.
+Tom groaned.	ටොම් කෙඳිරි ගෑවේය.
+Tom grunted.	ටොම් කෑගැසුවේය.
+Tom has OCD.	ටොම්ට DOC තියෙනවා.
+Tom inhaled.	ටොම් ආශ්වාස කළා.
+Tom is bald.	ටොම් තට්ටය.
+Tom is bald.	ටොම් තට්ටය.
+Tom is busy.	ටොම් කාර්යබහුලයි.
+Tom is calm.	ටොම් සන්සුන් ය.
+Tom is dead.	ටොම් මැරිලා.
+Tom is dead.	ටොම් මැරිලා.
+Tom is evil.	ටොම් නපුරුයි.
+Tom is full.	ටොම් පිරී ඇත.
+Tom is full.	ටොම් සෑහීමකට පත්වේ.
+Tom is here.	ටොම් මෙතන.
+Tom is hurt.	ටොම්ට තුවාලයි.
+Tom is lazy.	ටොම් කම්මැලියි.
+Tom is nice.	ටොම් කරුණාවන්තයි.
+Tom is poor.	තෝමස් දුප්පත්.
+Tom is sick.	ටොම් අසනීපයි.
+Tom is tall.	ටොම් උසයි.
+Tom is tidy.	ටොම් පිළිවෙලයි.
+Tom is weak.	ටොම් දුර්වලයි.
+Tom kneeled.	ටොම් දණින් වැටුණා.
+Tom laughed.	ටොම් හිනා වුණා.
+Tom listens.	ටොම් සවන් දෙයි.
+Tom prepaid.	ටොම් කලින් ගෙව්වා.
+Tom prepaid.	ටොම් කලින් ගෙව්වා.
+Tom refused.	ටොම් ප්රතික්ෂේප කළේය.
+Tom refused.	ටොම් වසා ඇත.
+Tom relaxed.	ටොම් සන්සුන් විය.
+Tom relaxed.	ටොම් සන්සුන් විය.
+Tom shouted.	ටොම් කෑගැසුවා.
+Tom slipped.	ටොම් ලිස්සා ගියේය.
+Tom sneezed.	ටොම් කිවිසුම් ගියා.
+Tom teaches.	ටොම් උගන්වයි.
+Tom was old.	තෝමස් වැඩිහිටි විය.
+Tom was sad.	ටොම් දුක් විය.
+Tom was shy.	ටොම් ලැජ්ජාශීලී විය.
+Tom will go.	ටොම් යනවා.
+Tom'll help.	ටොම් උදව් කරනු ඇත.
+Tom's alert.	ටොම් අවදියෙන්.
+Tom's alive.	ටොම් ජීවතුන් අතර.
+Tom's alone.	ටොම් තනියම.
+Tom's angry.	ටොම් තරහයි.
+Tom's awake.	ටොම් අවදියෙන්.
+Tom's bored.	ටොම් කම්මැලියි.
+Tom's crazy.	ටොම්ට පිස්සු.
+Tom's drunk.	ටොම් බීමත්ව සිටී.
+Tom's dying.	ටොම් මැරෙනවා.
+Tom's early.	ටොම් කලින් එනවා.
+Tom's flaky.	ටොම් දක්ෂයි.
+Tom's funny.	ටොම් සතුටුයි.
+Tom's great.	ටොම් නියමයි.
+Tom's lying.	ටොම් බොරු කියනවා.
+Tom's right.	ටොම් හරි.
+Tom's upset.	ටොම් කලබලයි.
+Tom's young.	ටොම් තරුණයි.
+Try that on.	එය උත්සාහ කරන්න.
+Try this on.	මෙය උත්සාහ කරන්න.
+Turn it off.	එය නිවා දමන්න.
+Wait for me.	මම එනකම් ඉන්න.
+Wait for me.	මම එනකම් ඉන්න.
+Wait for us.	අපි එනකන් බලාගෙන ඉන්නවා.
+Wait for us.	අපව බලාපොරොත්තුවෙන් සිටී.
+Wake Tom up.	ටොම් අවදි කරන්න.
+Wake him up.	ඔහුව අවදි කරන්න.
+Walk slowly.	සෙමින් ඇවිදින්න.
+Was I wrong?	මම වැරදියි?
+Was I wrong?	මම වැරදියි?
+Was it cold?	එය සීතල විය?
+Was it good?	ඒක හොඳයි?
+We all work.	අපි හැමෝම වැඩ කරනවා.
+We are even.	අපි සමානයි.
+We are here.	අපි මෙතන ඉන්නවා.
+We ate eggs.	අපි බිත්තර කෑවා.
+We broke up.	අපි වෙන් වුණා.
+We broke up.	අපි ඒක දාලා යනවා.
+We broke up.	අපි වෙන් වුණා.
+We can help.	අපිට උදව් කරන්න පුළුවන්.
+We can help.	අපිට උදව් කරන්න පුළුවන්.
+We can meet.	අපිට හමුවෙන්න පුළුවන්.
+We can meet.	අපි එකිනෙකා දකින්නෙමු.
+We can talk.	අපිට කතා කරන්න පුළුවන්.
+We can wait.	අපිට බලාගෙන ඉන්න පුළුවන්.
+We got lost.	අපි අතරමං වුණා.
+We help Tom.	අපි ටොම්ට උදව් කරනවා.
+We help Tom.	අපි ටොම්ට උදව් කරනවා.
+We know why.	අපි දන්නවා ඇයි කියලා.
+We know why.	අපි දන්නවා ඇයි කියලා.
+We know you.	අපි ඔබව දන්නවා.
+We know you.	අපි ඔබව දන්නවා.
+We know you.	අපි ඔබව දන්නවා.
+We know you.	අපි ඔබව දන්නවා.
+We like Tom.	අපි ටොම්ට කැමතියි.
+We like Tom.	අපි ටොම්ට ආදරෙයි.
+We like him.	අපි ඔහුට කැමතියි.
+We like you.	අපි ඔබට කැමතියි.
+We love Tom.	අපි ටොම්ට ආදරෙයි.
+We love you.	අපි ඔයාට ආදරෙයි.
+We love you.	අපි ඔයාට ආදරෙයි.
+We love you.	අපි ඔයාට ආදරෙයි.
+We love you.	අපි ඔයාට ආදරෙයි.
+We miss you.	අපිට ඔයාව දැනෙනවා.
+We must act.	ඔබ ක්රියා කළ යුතුයි.
+We must run.	අපි දුවන්න ඕනේ.
+We need you.	අපට ඔබව අවශ්‍යයි.
+We promised.	අපි පොරොන්දු වුණා.
+We remember.	අපට මතකයි.
+We remember.	අපි එකිනෙකා මතකයි.
+We sat down.	අපි වාඩි වෙනවා.
+We sat down.	අපි වාඩි වුණා.
+We survived.	අපි බේරුණා.
+We want Tom.	අපි ටොම්ට ආදරෙයි.
+We want one.	අපිට ඕනේ එහෙම එකක්.
+We'll be OK.	අපි හොඳින් ඉන්නම්.
+We'll do it.	අපි එය කරන්නෙමු.
+We'll drive.	අපි පදවන්නෙමු.
+We'll fight.	අපි සටන් කරමු.
+We'll share.	අපි බෙදා ගන්නෙමු.
+We'll share.	අපි බෙදා ගන්නෙමු.
+We're awake.	අපි අවදියෙන් සිටිමු.
+We're bored.	අපිට එපා වෙලා.
+We're broke.	අපි විනාශයි.
+We're broke.	අපි සතයක් නැතිව ඉන්නවා.
+We're broke.	අපි ඉටිපන්දම් දෙකක්.
+We're clean.	අපි පිරිසිදුයි.
+We're going.	අපි යමු.
+We're going.	අපි යන්නම්.
+We're going.	අපි යනවා.
+We're happy.	අපි සතුටුයි.
+We're ready.	අපි සූදානම්.
+We're right.	අපි හරි.
+We're sorry.	අපිට සමාවෙන්න.
+We're tired.	අපිට මහන්සියි.
+We're twins.	අපි නිවුන් දරුවන්.
+We're young.	අපි තරුණයි.
+What a bore!	කොතරම් කම්මැලිද!
+What a dope!	මම ඔයාව බූරුවා!
+What a dope!	මොන බූරුවෙක්ද!
+What a heel!	මොනතරම් ඇදගෙන යන මිනිහෙක්ද!
+What a jerk!	මොන මෝඩයෙක්ද!
+What a jerk!	මොන මෝඩයෙක්ද!
+What a loss!	මොනතරම් නාස්තියක්ද!
+What a mess!	මොනතරම් අවුල්ද!
+What a mess!	මොන අපිරිසිදුකමක්ද!
+What a mess!	මොනතරම් අවුල්ද!
+What a pain!	කෙතරම් වේදනාකාරීද.
+What a pity!	මොන දුකක් ද.
+What a pity!	මොන දුකක් ද.
+What a pity!	මොන දුකක් ද!
+What a team!	මොන කණ්ඩායමක්ද!
+What an ego!	මොන තරම් මමත්වයක්ද!
+What is art?	කලාව යනු කුමක්ද?
+What is new?	මොනවද අළුත්?
+What's good?	මොකක්ද හොඳ?
+What's good?	ඒකට කමක් නැහැ?
+What's this?	මේ කුමක් ද?
+Where is he?	කොහෙද?
+Where's Tom?	ටොම් කොහෙද?
+Who are you?	ඔයා කව්ද?
+Who are you?	ඔයා කව්ද?
+Who are you?	ඔයා කව්ද?
+Who cheated?	වංචා කළේ කවුද?
+Who cheered?	ඔල්වරසන් දුන්නේ කවුද?
+Who drew it?	එය ඇන්දේ කවුද?
+Who escaped?	පැන ගියේ කවුද?
+Who hit you?	කවුද ඔයාට ගැහුවේ?
+Who is next?	ඊළඟ කෙනා කවුද?
+Who is that?	ඌ කව් ද?
+Who is that?	ඒ කව් ද?
+Who is that?	ඇය කව් ද?
+Who said it?	කවුද ඒක කිව්වේ?
+Who saw you?	කවුද ඔයාව දැක්කේ?
+Who'll come?	කවුද එන්නේ?
+Who'll cook?	උයන්න යන්නේ කවුද?
+Who's first?	කාගේ වාරයද?
+Who's first?	කවුද මුලින්ම යන්නේ?
+Who's first?	පළමුවැන්නා කවුද?
+Who's going?	කවුද යන්නේ?
+Who's going?	කවුද යන්නේ?
+Who's there?	කවුද ඉන්නේ?
+Whose is it?	ඒක කාගෙද?
+Why is that?	ඇයි ඒ?
+Why is that?	එහෙම වෙන්නේ ඇයි?
+Why is this?	මේ කුමක් ද?
+Will you go?	ඔයා යනවද?
+Will you go?	ඔබ යන්නද?
+Will you go?	යනවාද?
+Write it up.	එය ලියන්න.
+Write it up.	එය ලිඛිතව තබන්න.
+Yes, I know.	ඔව් මම දන්නවා.
+You are big.	ඔයා ලොකුයි.
+You are mad.	ඔයාට පිස්සු.
+You cheated.	ඔබ වංචා කළා.
+You cheated.	ඔහු වංචා කළා.
+You cheated.	ඔබ වංචා කළා.
+You cheated.	ඔවුන් වංචා කළා.
+You fainted.	ඔවුන් ක්ලාන්ත විය.
+You fainted.	ඔබ ක්ලාන්ත විය.
+You fainted.	ඔහු ක්ලාන්ත විය.
+You hurt me.	ඔයා මට රිද්දුවා.
+You keep it.	ඔහුව තබා ගන්න.
+You know me.	ඔයා මාව දන්නවා.
+You know me.	ඔයා මාව දන්නවා.
+You know me.	ඔබ දැනටමත් මාව දන්නවා.
+You made it.	ඔබ එය කර ඇත.
+You made it.	ඔබට එය ලැබී ඇත.
+You made it.	ඔබ එය සාක්ෂාත් කර ගෙන ඇත.
+You made it.	ඔබ එය සාක්ෂාත් කර ගෙන ඇත.
+You need it.	ඔබට එය අවශ්යයි.
+You need it.	ඔබට එය අවශ්යයි.
+You need it.	ඔබට එය අවශ්යයි.
+You need us.	ඔබට අපව අවශ්‍යයි.
+You need us.	ඔබට අපව අවශ්‍යයි.
+You said it!	ඒ නිසා! හරියටම ඒ වගේ.
+You're back.	ඔබ නැවත පැමිණ ඇත.
+You're back.	ඔබ ආපසු පැමිණ ඇත.
+You're back.	ඔබ දැනටමත් මෙහි සිටී.
+You're back.	ඔබ නැවත පැමිණ ඇත.
+You're cool.	ඔයා ලන්ගා කෙනෙක්.
+You're cute.	ඔයා ලස්සනයි.
+You're fine.	ඔයා හොඳින් ඉන්නේ.
+You're fine.	ඔබ හොඳින්.
+You're fine.	ඔයාට හොඳයි ද.
+You're free.	ඔබ නිදහස්.
+You're good.	ඔබ හොඳයි.
+You're good.	ඔබ හොඳයි.
+You're good.	ඔබ හොඳයි.
+You're good.	ඔබ හොඳයි.
+You're here.	ඔයා මෙතන ද.
+You're here.	ඔයා මෙහෙයි.
+You're late.	ඔබ ප්රමාදයි.
+You're mean.	ඔයා නරකයි.
+You're mean.	ඔබ සුලු ය.
+You're mine.	ඔයා මගෙයි.
+You're nice.	ඔයා හොඳයි.
+You're nuts!	ඔබට පිස්සු!
+You're nuts!	ඔබට පිස්සු!
+You're rich.	ඔබ ධනවත් ය.
+You're rich.	ඔබ ධනවත් ය.
+You're safe.	ඔබ ආරක්ෂිතයි.
+You're sick!	ඔබට අසනීපද!
+You're sick!	ඔබ අසනීපයි!
+You're sick.	ඔයා අසනීපෙන්ද.
+You're weak.	ඔබ දුර්වලයි.
+Abandon ship!	නැව අත්හරින්න!
+Act your age.	ඔබේ වයස අනුව කටයුතු කරන්න.
+All is quiet.	සියල්ල සන්සුන් ය.
+All is quiet.	සියල්ල නිහඬය.
+All is still.	සියල්ල සන්සුන් ය.
+Am I invited?	මට ආරාධනා කළාද?
+Anybody home?	ගෙදර කවුරුහරි ඉන්නවද?
+Anybody hurt?	කව්රුන් හෝ තුවාල වීද?
+Anything new?	අලුත් දෙයක් නැද්ද?
+Are we broke?	අපි විනාශ වෙලාද?
+Are you bald?	ඔබට තට්ටයද?
+Are you bald?	ඔබ තට්ටය?
+Are you busy?	ඔයා කාර්ය බහුල ද?
+Are you busy?	ඔයා කාර්ය බහුල ද?
+Are you busy?	ඔයා කාර්ය බහුල ද?
+Are you cold?	ඔබට සීතලද?
+Are you dead?	ඔය මැරිලා?
+Are you deaf?	ඔබ බිහිරිද?
+Are you deaf?	ඔබ බිහිරිද?
+Are you free?	ඔබ නිදහස්?
+Are you full?	ඔබ පිරී තිබේද?
+Are you here?	ඔයා මෙතන ද?
+Are you here?	ඔයා මෙතන ද?
+Are you home?	ඔයා ඉන්නේ ගෙදර ද?
+Are you home?	ඔයා ගෙදරද?
+Are you hurt?	ඔයාට තුවාලද?
+Are you lost?	ඔබ අතරමං වෙලා ද?
+Are you lost?	ඔබ අතරමං වී තිබේද?
+Are you lost?	ඔයා නැතිවෙලාද?
+Are you nuts?	ඔබට පිස්සු?
+Are you okay?	ඔයාට හොඳයි ද?
+Are you okay?	ඔයා හොඳින් ඉන්නේ?
+Are you okay?	ඔයාට හරි ද?
+Are you rich?	ඔබ ධනවත් ය?
+Are you sick?	ඔයා අසනීපෙන්ද?
+Are you sure?	ඔබට විශ්වාසද?
+Are you sure?	ඔයාට විශ්වාස ද?
+Are you sure?	ඔයාට විශ්වාස ද?
+Are you sure?	ඔයාට විශ්වාස ද?
+Are you well?	ඔයාට හොඳයි ද?
+Ask Mary out.	ඔහු මරියාගෙන් එළියට යයි.
+Be attentive.	පරීක්ෂාකාරී වන්න.
+Be confident.	විශ්වාසයෙන් සිටින්න.
+Be confident.	ඔබ ගැන සහතික වන්න.
+Be confident.	විශ්වාසය ඇති කර ගන්න.
+Be confident.	ඔබ ගැන විශ්වාස කරන්න.
+Be confident.	ආරක්ෂිතව සිටින්න.
+Be merciless.	නිර්දය වන්න.
+Be objective.	වෛෂයික වන්න.
+Be objective.	වෛෂයික වන්න.
+Be objective.	වෛෂයික වන්න.
+Be realistic!	එය සැබෑව තබා ගන්න!
+Bear with me.	මා සමඟ ඉවසන්න.
+Bear with me.	මා සමඟ ඉවසන්න.
+Beef, please.	හරක් මස්, කරුණාකර.
+Boil one egg.	බිත්තරයක් උනු.
+Bring backup.	ආධාරක භටයන් ගේන්න.
+Bring him in.	එයාට ඇතුලට යන්න දෙන්න.
+Bring my hat.	මගේ තොප්පිය ගෙනෙන්න.
+Call the FBI.	FBI අමතන්න.
+Can I try it?	මට උත්සාහ කළ හැකිද?
+Can he do it?	එය කළ හැකිද?
+Can you come?	එන්න පුළුවන්?
+Can you help?	ඔයාට උදව් කරන්න පුළුවන්ද?
+Can you read?	ඔබට කියවිය හැකිද?
+Can you swim?	ඔබ පිහිනන්න දන්නවාද?
+Can you walk?	ඔබට ඇවිදින්න පුළුවන්ද?
+Can you walk?	ඔබට ඇවිදින්න පුළුවන්ද?
+Can you walk?	ඔබට ඇවිදින්න පුළුවන්ද?
+Check around.	අප අවට පරීක්ෂා කරන්න.
+Check around.	අවට පරීක්ෂා කරන්න.
+Check it out!	එය පරික්ෂා කරන්න!
+Check it out!	ඒක බලන්න!
+Check it out!	එය පරීක්ෂා කරන්න!
+Come and see.	ඇවිත් බලන්න.
+Come and see.	ඇවිත් බලන්න.
+Come anytime.	ඕන වෙලාවක එන්න.
+Come anytime.	වෙලාවක එන්න.
+Come at once.	වහාම එන්න.
+Come forward.	ළඟට එන්න.
+Come help me.	මට උදව් කරන්න එන්න.
+Come help me.	එන්න මට අත දෙන්න.
+Come on back.	ආපහු ආවා.
+Come on down.	අඩු.
+Come on down.	අහකට යන්න.
+Come on home.	ආපසු ගෙදර යන්න.
+Come outside.	නැති වෙනවා.
+Come quickly!	ඉක්මනින් එන්න!
+Come up here.	මෙහෙට එන්න.
+Come up here.	මෙහෙට එන්න.
+Come up here.	මෙහෙට එන්න.
+Come up here.	මෙහෙට එන්න.
+Come up here.	මෙහෙට එන්න.
+Come up here.	මෙහෙට එන්න.
+Come with me.	මා සමග එන්න.
+Come with me.	එන්න.
+Come with me.	ඉදිරියට එන්න.
+Come with us.	අප සමග එන්න.
+Come with us.	අප සමග එන්න.
+Come with us.	අප සමග එන්න.
+Come with us.	එන්න.
+Come with us.	ඉදිරියට එන්න.
+Cool it down.	එය සිසිල් කරන්න.
+Describe Tom.	එය ටොමස්ට විස්තර කරන්න.
+Describe Tom.	එය ටොමස්ට විස්තර කරන්න.
+Describe Tom.	එය ටොමස්ට විස්තර කරන්න.
+Did Tom call?	ටොම් ඇමතුවාද?
+Did Tom come?	ටොම් ආවාද?
+Did Tom help?	ටොම් උදව් කළාද?
+Did Tom know?	ටොම් දැන සිටියාද?
+Did you call?	ඇමතුවාද?
+Did you help?	ඔබ උදව් කළාද?
+Did you sign?	ඔබ අත්සන් කළාද?
+Did you sign?	ඔවුන් අත්සන් කළාද?
+Do I look OK?	මම හොඳ පෙනුමක්ද?
+Do I look OK?	මම හොඳ පෙනුමක්ද?
+Do it Monday.	සඳුදා එය කරන්න.
+Do it for me.	මා වෙනුවෙන් කරන්න.
+Do it for me.	මා වෙනුවෙන් කරන්න.
+Do they know?	ඔවුන් දන්නවාද?
+Do they know?	ඔබ ඔහුව දන්නවාද?
+Do you drink?	ඔයා බොනවද?
+Do you drink?	ඔබ බොනවාද?
+Do you drink?	ඔයා බොනවද?
+Do you smoke?	ඔබ දුම් පානය කරනවාද?
+Do you smoke?	ඔබ දුම් පානය කරනවාද?
+Do you snore?	ඔබ ගොරවනවාද?
+Do you snore?	ඔබ ගොරවනවාද?
+Does it hurt?	රිදෙනවාද?
+Does it show?	සැලකිය යුතු?
+Does it work?	කටයුතු?
+Does it work?	ඒක වැඩ කරනවද?
+Don't be sad.	කනගාටු වෙන්න එපා.
+Don't be shy.	ලැජ්ජා වෙන්න එපා.
+Don't be shy.	ලැජ්ජා වෙන්න එපා.
+Don't be shy.	ලැජ්ජා වෙන්න එපා.
+Don't be shy.	කණගාටු වෙන්න එපා.
+Don't let go.	යන්න දෙන්න එපා.
+Don't ramble.	හැරෙන්න එපා.
+Don't scream.	කෑගහන්න එපා.
+Don't try me.	මාව පොළඹවන්න එපා.
+Drive faster.	වේගයෙන් ධාවනය කරන්න.
+Drive safely.	පරිස්සමෙන් රිය පදවන්න.
+Drive slowly.	සෙමින් පදවන්න.
+Examine this.	මෙය විමසා බලන්න.
+Examine this.	මෙය විමසා බලන්න.
+Examine this.	මෙය විමසා බලන්න.
+Examine this.	මෙය විමසා බලන්න.
+Examine this.	මෙය විමසා බලන්න.
+Fight or die.	සටන් කරන්න නැත්නම් මැරෙන්න.
+Find the cat.	බළලා සොයා ගන්න.
+Find the cat.	බළලා සොයා ගන්න.
+Get the book.	පොත ගේන්න.
+Get the book.	පොත ගන්න.
+Get the book.	පොත ගන්න.
+Get the book.	පොත ගේන්න.
+Get the book.	පොත ගන්න.
+Get upstairs.	උඩට යන්න.
+Ghosts exist.	අවතාර පවතී.
+Give me half.	මට අඩක් දෙන්න.
+Give me half.	මට අඩක් දෙන්න.
+Give me half.	මට අඩක් දෙන්න.
+Give me half.	මට අඩක් දෙන්න.
+Give me that.	මට ඒක දෙන්න.
+Give me time.	මට කාලය දෙන්න.
+Give me time.	මට කාලය දෙන්න.
+Give me time.	මට කාලය දෙන්න.
+Go back home.	ආපසු නිවසට යන්න.
+Go on inside.	ඇතුල් වේ.
+Go on inside.	ඇතුලට යන්න.
+Go to school.	පාසලට යන්න.
+Good for you.	ඔයාට හොඳයි.
+Good morning.	සුභ උදෑසනක්.
+Hang on, Tom.	ඉන්න, ටොම්.
+Happy Easter!	ප්රීතිමත් පාස්කු මංගල්යයක්.
+Happy Easter!	ප්රීතිමත් පාස්කු මංගල්යයක්!
+Has she come?	ඔහු පැමිණ තිබේද?
+Have a donut.	ඩෝනට් එකක් ගන්න.
+Have a donut.	ඩෝනට් එකක් කන්න.
+Have a drink.	බොන්න.
+Have a drink.	මොනවා හරි බොන්න.
+Have a snack.	කෙටි කෑමක් කන්න.
+Have another.	තව එකක් ගන්න.
+Have another.	තව එකක් ගන්න.
+Have another.	තව එකක් ගන්න.
+Have another.	තව එකක් ගන්න.
+Have another.	තව එකක් ගන්න.
+Have another.	තව එකක් ගන්න.
+Have courage.	නිර්භීත වෙන්න.
+Have courage.	නිර්භීත වෙන්න.
+He avoids me.	ඔහු මාව මගහරිනවා.
+He cried out.	කෑගැසීම.
+He denied it.	ඔහු එය ප්‍රතික්ෂේප කළේය.
+He dozed off.	ඔහු සැතපුණේ.
+He got angry.	ඔහුට පිස්සු හැදුණා.
+He had a dog.	එයාට බල්ලෙක් හිටියා.
+He has a dog.	එයාට බල්ලෙක් ඉන්නවා.
+He has a dog.	එයාට බල්ලෙක් ඉන්නවා.
+He helps her.	ආධාර.
+He is French.	එය ප්රංශ.
+He is cranky.	එයා තරහයි.
+He is cranky.	ඔහු මුහුණේ සිටී.
+He is driven.	ඔහු පෙලඹී ඇත.
+He is eating.	කනවා.
+He is not in.	මෙතන නැහැ.
+He is not in.	එයා ඇතුලේ නෑ.
+He kicked it.	ඔහු ඔහුට පයින් ගැසුවේය.
+He let me go.	ඔහු මට යන්න දුන්නා.
+He let me go.	ඔහු මට යන්න දුන්නා.
+He let us go.	ඔහු අපට යන්න දුන්නා.
+He let us go.	ඔහු අපට යන්න දුන්නා.
+He likes tea.	ඔහු තේ වලට කැමතියි.
+He likes tea.	ඔහු තේ වලට කැමතියි.
+He lost face.	ඔහු නින්දාවට පත් විය.
+He lost face.	ඔහු නරක පෙනුමක්.
+He lost face.	ඔහුට කීර්තිය අහිමි විය.
+He loved her.	ඇයට අවශ්‍ය විය.
+He loves her.	ඇයට ඕන.
+He runs fast.	වේගයෙන් දුවන්න.
+He seems ill.	ඔහු අසනීප බව පෙනේ.
+He was alone.	ඔහු තනිව සිටියේය.
+He was brave.	ඔහු නිර්භීත විය.
+He was naive.	ඔහු බොළඳ විය.
+He was wrong.	ඔහු වැරදියි.
+He will wait.	බලා සිටිනු ඇත.
+He will walk.	ඔහු ඇවිදින්න යනවා.
+He's a bigot.	ඔහු පිස්සෙක්.
+He's a ninja.	ඔහු නින්ජා ජාතිකයෙකි.
+He's dieting.	ඔහු ආහාර වේලක් මත සිටී.
+He's in pain.	ඔහු දුක් විඳිනවා.
+He's jealous.	ඔහු ඊර්ෂ්යා කරයි.
+He's my hero.	ඔහු මගේ වීරයා.
+He's out now.	එයා දැන් මෙතන නෑ.
+He's so cute.	ඔහු හරි හුරුබුහුටියි!
+He's so cute.	ඔහු හරිම ලස්සනයි!
+Help Tom out.	ටොම්ට උදව් කරන්න.
+Help Tom out.	ටොම්ට උදව් කරන්න.
+Here you are.	ඔබ මෙහි ඇති.
+Here you are.	හියර් යු ආර්.
+Here you are.	අන්තිමට මම ඔයාව හොයාගන්නවා.
+Here you are.	ගන්න.
+Here you are.	ඒක ගන්න.
+Here's a pen.	මෙන්න පෑනක්.
+Here's a pen.	මෙන්න පෑනක්.
+Hey, wait up!	හේයි, ඉන්න!
+How annoying!	එය දරාගත හැකි කිසිවෙක් නැත!
+How annoying!	මොන මගුලක්ද!
+How annoying!	කොතරම් බරද!
+How annoying!	මොනතරම් කරදරයක්ද!
+How annoying!	මොන බෝල රසිකයෙක්ද!
+How arrogant!	කොච්චර අහංකාරද!
+How dare you!	ඔබ කෙතරම් නිර්භීතද!
+How horrible!	බිහිසුණු!
+How romantic!	කෙතරම් ආදර හැඟීමක්ද!
+How's school?	උසස් පෙළ කොහොමද?
+How's school?	පාසල කොහොමද?
+How's school?	කොහොමද ඉස්කෝලේ යන්නේ?
+I admire Tom.	මම ටොම්ව අගය කරනවා.
+I admire you.	මම ඔයාව වර්ණනා කරනවා.
+I am Chinese.	මම චීන ජාතිකයෙක්.
+I am a woman.	මම කාන්තාවක්.
+I am at home.	මම ගෙදර.
+I am at home.	මම දැන් ගෙදර.
+I am baffled.	මම ව්යාකුලයි.
+I am curious.	මම කුතුහලයෙන් සිටිමි.
+I am curious.	මට ඒක දැනගන්න ඕන.
+I am injured.	මට තුවාලයි.
+I am married.	මම විවාහකයි.
+I am married.	මම විවාහකයි.
+I am praying.	මම යාච්ඤා කරනවා.
+I am working.	මම ඉන්නේ වැඩ කරමින්.
+I apologized.	මට සමාවෙන්න.
+I ate apples.	මම ඇපල් කෑවා.
+I ate apples.	මම ඇපල් කෑවා.
+I ate caviar.	මම කේවියර් කෑවා.
+I bit my lip.	මම තොල් සපා ගත්තා.
+I called Tom.	මම ටොම්ට කතා කළා.
+I can fix it.	මට ඒක හදන්න පුළුවන්.
+I can't cook.	මම උයන්න දන්නේ නැහැ.
+I can't help.	මට උදව් කරන්න බැහැ.
+I can't move.	මට සෙලවීමට බැහැ.
+I can't sing.	මට සින්දු කියන්න බෑ.
+I can't stay.	මට ඉන්න බෑ.
+I can't stop.	මට නවතින්න බැහැ.
+I can't swim.	මම පීනන්න දන්නේ නැහැ.
+I can't talk.	මට කතා කරන්න බැහැ.
+I can't walk.	මට ඇවිදින්න බැහැ.
+I could walk.	මට ඇවිදින්න පුළුවන් වුණා.
+I cut myself.	මට මාවම කපාගන්න.
+I cut myself.	මට මාවම කපාගන්න.
+I cut myself.	මම මාවම කපා ගත්තා.
+I detest Tom.	මම ටොම්ට වෛර කරනවා.
+I did my job.	මම මගේ කාර්යය කළා.
+I did see it.	මම ඒක දැක්කා.
+I didn't ask.	මම ඇහුවේ නැහැ.
+I didn't lie.	මම බොරු කිව්වේ නැහැ.
+I didn't pay.	මම ගෙව්වේ නැහැ.
+I do want it.	ඔව් මට ඒක ඕන.
+I don't care.	මට කමක් නැහැ.
+I don't care.	ඔහු මගේ බිත්තරය උරනවා.
+I don't know.	මම දන්නේ නැහැ.
+I don't know.	දන්නේ නැහැ.
+I don't know.	මම දන්නේ නැහැ.
+I don't mind.	මට කමක් නැහැ.
+I don't sing.	මම ගායනා කරන්නේ නැහැ.
+I drank milk.	මම කිරි බිව්වා.
+I drank milk.	මම කිරි බීලා තියෙනවා.
+I eat cheese.	මම චීස් කනවා.
+I feel alive.	මම ජීවත් වෙනවා වගේ දැනෙනවා.
+I feel alive.	මම ජීවත් වෙනවා වගේ දැනෙනවා.
+I feel faint.	මට දුර්වල බවක් දැනෙනවා.
+I feel great.	මට ලොකු සතුටක් දැනෙනවා.
+I feel happy.	මම තෘප්තිමත්.
+I feel tired.	මට මහන්සියක් දැනෙනවා.
+I felt alone.	මට තනිකමක් දැනුනා.
+I felt woozy.	මට හිරිවැටීමක් දැනුණා.
+I felt woozy.	මට අන්ද මන්ද විය.
+I found them.	මම ඔවුන්ව සොයාගත්තා.
+I found them.	මම ඔවුන්ව සොයාගත්තා.
+I framed Tom.	මම ටොම්ව රාමු කළා.
+I go to work.	වැඩට යන්න.
+I got carded.	ඔවුන් මගෙන් හැඳුනුම්පත ඉල්ලා සිටියා.
+I got carded.	ඔවුන් මගෙන් ඉල්ලා සිටියේ මා හඳුනා ගන්නා ලෙසයි.
+I got carded.	ඔවුන් මගෙන් ලියකියවිලි ඉල්ලා සිටියා.
+I got mugged.	ඔවුන් මාව කොල්ලකෑවා.
+I had doubts.	මට සැක ඇති වුණා.
+I had to try.	මට උත්සාහ කිරීමට සිදු විය.
+I hate liars.	මම බොරුකාරයන්ට වෛර කරනවා.
+I hate opera.	මම ඔපෙරා වලට වෛර කරනවා.
+I hate rules.	මම නීති වලට වෛර කරනවා.
+I hate sushi.	මම සුෂිට වෛර කරනවා.
+I have a car.	මට කාර් එකක් තියෙනවා.
+I have a car.	මට කාර් එකක් තියෙනවා.
+I have a cat.	මට පුසෙක් ඉන්නවා.
+I have a dog.	මට බල්ලෙක් ඉන්නවා.
+I have a key.	මගේ ළඟ යතුරක් තියෙනවා.
+I have a pen.	මට පෑනක් තියෙනවා.
+I have a pen.	මට පෑනක් තියෙනවා.
+I have money.	මට සල්ලි තියෙනවා.
+I have to go.	මට යන්නට තියනෙවා.
+I have to go.	මට යන්නට තියනෙවා.
+I hear music.	මම සංගීතයට සවන් දෙමි.
+I helped Tom.	මම ටොම්ට උදව් කළා.
+I hugged her.	මම ඇයව වැළඳ ගත්තෙමි.
+I just moved.	මම ගියා විතරයි.
+I keep a dog.	මට බල්ලෙක් ඉන්නවා.
+I like China.	මම චීනයට කැමතියි.
+I like beans.	මම බෝංචි වලට කැමතියි.
+I like bread.	මම පාන් වලට කැමතියි.
+I like candy.	මම කැන්ඩි වලට කැමතියි.
+I like chess.	මම චෙස් වලට කැමතියි.
+I like fruit.	මම පලතුරු වලට කැමතියි.
+I like honey.	මම මී පැණි වලට කැමතියි.
+I like opera.	මම ඔපෙරා වලට කැමතියි.
+I like pizza.	මම පීසා වලට කැමතියි.
+I like sushi.	මම සුෂිට කැමතියි.
+I like these.	මම එයට කැමතියි.
+I like women.	මම කාන්තාවන්ට කැමතියි.
+I live alone.	මම තනියම ජීවත් වෙනවා.
+I love books.	මම පොත් වලට ආදරෙයි.
+I love games.	මම ක්‍රීඩා වලට කැමතියි.
+I love trips.	මම සංචාරයට කැමතියි.
+I loved that.	මම ඒකට කැමති වුණා.
+I loved that.	මම ඒකට කැමති වුණා.
+I loved that.	මම ඒකට කැමති වුණා.
+I made a bet.	මම ඔට්ටුවක් දැම්මා.
+I made these.	මම තමයි මේවා හැදුවේ.
+I made these.	මම තමයි මේවා හැදුවේ.
+I misled Tom.	මම ටොම්ව රැවැට්ටුවා.
+I missed you.	මට ඔයාව දැණුනා.
+I missed you.	මට ඔයාව දැණුනා.
+I need a cab.	මට කුලී රථයක් අවශ්‍යයි.
+I need a car.	මට කාර් එකක් ඕන.
+I need a car.	මට කාර් එකක් ඕන.
+I need a hug.	මට හාදුවක් ඕන.
+I need a nap.	මට නින්දක් අවශ්‍යයි.
+I need paint.	මට තීන්ත අවශ්යයි.
+I need paint.	මට තීන්ත අවශ්යයි.
+I need sleep.	මට නිදාගන්න ඕන.
+I need space.	මට ඉඩ අවශ්‍යයි.
+I need water.	මට වතුර ඕන.
+I need water.	මට වතුර ඕන.
+I needed you.	මට ඔබව අවශ්‍ය විය.
+I needed you.	මට ඔබව අවශ්‍ය විය.
+I often read.	මම නිතර කියෙව්වා.
+I phoned him.	මම ඒකට කතා කළා.
+I read books.	මම පොත් කියෙව්වා.
+I see a book.	මම පොතක් දකිනවා.
+I see a lion.	මට සිංහයෙක් පේනවා.
+I see a star.	මට තරුවක් පේනවා.
+I shot a gun.	මම තුවක්කුවක් පත්තු කළා.
+I speak fast.	මම ඉක්මනින් කතා කරනවා.
+I sympathize.	මම අනුකම්පා කරමි.
+I understand.	මට තේරෙනවා.
+I understand.	මට තේරෙනවා.
+I want a dog.	මට බල්ලෙක් ඕන.
+I want a lot.	මට ගොඩක් දේවල් ඕන.
+I want money.	මට සල්ලි ඕන.
+I want these.	මට මේවා ඕනේ.
+I want to go.	මට යන්න ඕන.
+I warned Tom.	මම ටොම්ට දැනුම් දුන්නා.
+I was afraid.	මම බය වුණා.
+I was framed.	මාව රාමු කළා.
+I was hungry.	මට බඩගිනියි.
+I was lonely.	මම තනියම.
+I was lonely.	මම තනියම.
+I was sleepy.	නිදිමත විය.
+I went twice.	මම දෙපාරක් ගියා.
+I won't lose!	මම පරදින්නේ නැහැ!
+I won't lose!	මම නැති වෙන්නේ නැහැ!
+I wonder why.	ඇයි කියලා මට හිතෙනවා.
+I wrote that.	මම ඒක ලිව්වා.
+I'd buy that.	මම එය මිලදී ගන්නම්.
+I'll ask Tom.	මම ටොම්ගෙන් අහන්නම්.
+I'll ask him.	මම අහන්නම්.
+I'll be back.	මම ආපසු එන්නම්.
+I'll be fine.	මම හොඳින් ඉන්නම්.
+I'll be free.	මම නිදහස් වෙන්නම්.
+I'll be free.	මම නිදහස් වන්නෙමි.
+I'll buy one.	මම එකක් ගන්න යනවා.
+I'll do that.	මම ඒක කරන්නම්.
+I'll read it.	මම ඒක කියවන්න යනවා.
+I'll risk it.	මම අවදානම ගන්නම්.
+I'll see Tom.	මම ටොම්ව බලන්න යනවා.
+I'll sue you.	මම ඔබට නඩු පවරමි.
+I'm Tom's ex.	මම ටොම්ගේ හිටපු කෙනෙක්.
+I'm a doctor.	මම දොස්තර කෙනෙක්.
+I'm a doctor.	මම දොස්තර කෙනෙක්.
+I'm a doctor.	මම වෛද්‍යවරයෙක්.
+I'm a farmer.	මම ගොවියෙක්.
+I'm a surfer.	මම සැරිසරන්නෙක්.
+I'm a waiter.	මම වේටර් කෙනෙක්.
+I'm a writer.	මම ලියන්නෙක්.
+I'm all ears.	මම ඔක්කොම කන්.
+I'm an actor.	මම නළුවෙක්.
+I'm an adult.	මම වැඩිහිටියෙක්.
+I'm an adult.	මම වැඩිහිටියෙක්.
+I'm an agent.	මම නියෝජිතයෙක්.
+I'm anorexic.	මම ආහාර අරුචිය.
+I'm autistic.	මම autistic.
+I'm barefoot.	මම පාවහන් නොමැතිව සිටිමි.
+I'm confused.	මම ව්යාකුලයි.
+I'm confused.	මම ව්යාකුලයි.
+I'm confused.	මම ව්යාකුලයි.
+I'm confused.	මම ව්යාකුලයි.
+I'm divorced.	මම දික්කසාද වී ඇත.
+I'm doubtful.	මට සැකයි.
+I'm drowning.	මම ගිලෙනවා.
+I'm educated.	මට පුහුණුවක් තියෙනවා.
+I'm famished.	මට බඩගිනියි.
+I'm free now.	දැන් මම නිදහස්.
+I'm free now.	මම දැන් නිදහස්.
+I'm freezing.	මම ශීත වී සිටිමි.
+I'm freezing.	මම ශීත වී සිටිමි.
+I'm freezing.	මම කැටි වෙනවා.
+I'm grateful.	මම කෘතඥ වෙනවා.
+I'm grieving.	මම ශෝකයෙන් සිටිමි.
+I'm gullible.	මම බොළඳයි.
+I'm hesitant.	මම දෙගිඩියාවෙන් සිටිමි.
+I'm hurt bad.	මට බරපතල තුවාල වෙලා.
+I'm in Perth.	මම ඉන්නේ පර්ත් වල.
+I'm innocent.	මම අහිංසකයි.
+I'm literate.	මම සංස්කෘතිකයි.
+I'm new here.	මම මෙහෙට අලුත්.
+I'm no angel.	මම දේවදූතයෙක් නොවේ.
+I'm no rebel.	මම කැරලිකාරයෙක් නෙවෙයි.
+I'm no rebel.	මම කැරලිකාරයෙක් නෙවෙයි.
+I'm not bald.	මම තට්ටය නැහැ.
+I'm not bald.	මම තට්ටය නැහැ.
+I'm not busy.	මම කාර්යබහුල නෑ.
+I'm not deaf.	මම බිහිරි නැහැ.
+I'm not dumb.	මම මෝඩ නැහැ.
+I'm not here.	මම මෙතැන නැත.
+I'm not lazy.	මම කම්මැලි නැහැ.
+I'm not poor.	මම දුප්පත් නැහැ.
+I'm not rich.	මම පොහොසත් නැහැ.
+I'm not sick.	මට අසනීපයක් නෑ.
+I'm not sure.	මට විශ්වාස නැහැ.
+I'm not tall.	මම උස නැහැ.
+I'm outraged.	මම කෝපයට පත් වෙමි.
+I'm painting.	මම පින්තාරු කරනවා.
+I'm pregnant.	මම ගැබ්ගෙන සිටිමි.
+I'm pregnant.	මම ගැබ්ගෙන සිටිමි.
+I'm prepared.	මම සුදානම්.
+I'm prepared.	මම සුදානම්.
+I'm rational.	මම තාර්කිකයි.
+I'm relieved.	මට සහනයක් දැනෙනවා.
+I'm restless.	මම නොසන්සුන්.
+I'm restless.	මම නොසන්සුන්.
+I'm restless.	මම නොසන්සුන්.
+I'm shopping.	මම මිලදී ගන්නවා.
+I'm sleeping.	මම නිදි.
+I'm so alone.	මම හරිම පාළුයි.
+I'm so happy.	මට හරිම සතුටුයි.
+I'm so happy.	මට ඉතා සතුටුයි.
+I'm so sorry.	මට ඉතා කනගාටුයි.
+I'm so sorry.	මට ඉතා කනගාටුයි.
+I'm so tired!	මට ගොඩක් මහන්සියි!
+I'm so tired!	මට ගොඩක් මහන්සියි!
+I'm so tired.	මට ගොඩක් මහන්සියි.
+I'm starving!	මම බඩගින්නේ!
+I'm starving!	මම බඩගින්නේ!
+I'm still up.	මම තාම නැඟිටිනවා.
+I'm stubborn.	මම මුරණ්ඩුයි.
+I'm studying.	මම ඉන්නේ පාඩම් කරමින්.
+I'm the best.	මම තමයි හොඳම.
+I'm thinking.	මම හිතනවා.
+I'm thinking.	මම භාවනා කරනවා.
+I'm thirteen.	මට වයස අවුරුදු දහතුනයි.
+I'm thorough.	මම හෘද සාක්ෂියට එකඟයි.
+I'm thrilled.	මම උද්යෝගවත්.
+I'm tolerant.	මම ඉවසනවා.
+I'm very fat.	මම ගොඩක් මහතයි.
+I'm very fat.	මම ගොඩක් මහතයි.
+I'm very fat.	මම ඉතින් මහතයි.
+I'm very fat.	මම මහත වැඩියි.
+I'm very hot.	මම හරිම අසික්කිතයි.
+I'm very sad.	මට හරිම දුකයි.
+I'm very shy.	මම හරිම ලැජ්ජයි.
+I'm very shy.	මම හරිම ලැජ්ජයි.
+I'm with him.	මම ඔහු සමඟ සිටිමි.
+I'm worn out.	මම ගොඩක් වෙහෙසට පත් වෙලා.
+I'm worn out.	මම අතිශයින් වෙභෙසට පත් වී ඇත.
+I've done OK.	මම ඒක හොඳට කළා.
+I've lost it.	මට ඒක නැතිවෙලා.
+I've seen it.	මම එය දැක ඇති.
+Ice is solid.	අයිස් ඝනයි.
+Iron is hard.	යකඩ අමාරුයි.
+Is Monday OK?	සඳුදා හරිද?
+Is Tom awake?	ටොම් අවදියෙන්ද?
+Is Tom crazy?	ටොම්ට පිස්සුද?
+Is Tom cured?	ටොම් සුව වූවාද?
+Is Tom drunk?	ටොම් බීලද?
+Is Tom dying?	ටොම් මැරෙනවාද?
+Is Tom happy?	ටොම් සතුටින්ද?
+Is Tom lucid?	ටොම් පැහැදිලිද?
+Is Tom there?	ටොම් ඉන්නවද?
+Is it a deer?	ඒ මුවෙක්ද?
+Is it a trap?	එය උගුලක්ද?
+Is it a wolf?	ඌ වෘකයෙක්ද?
+Is it a wolf?	ඌ වෘකයෙක්ද?
+Is it an elk?	ඒ මූසලයෙක්ද?
+Is it broken?	ඒක කැඩිලද?
+Is it enough?	එය ප්රමාණවත්ද?
+Is that love?	ඒ ආදරයද?
+Is that mine?	ඒක මගේද?
+Is that mine?	ඒක මගේද?
+Is that true?	එය ඇත්තයි?
+Is this fake?	මේක බොරුද?
+Is this love?	මේ ආදරයද?
+Is this mine?	මේක මගේද?
+Is this mine?	මේක මගේද?
+Is this nice?	මේක හොඳද?
+Is this real?	මේක ඇත්තද?
+Is this real?	මෙය සත්‍යද?
+Is this wine?	මේ වයින් ද?
+It has begun.	ආරම්භ වී ඇත.
+It has begun.	එය ආරම්භ විය.
+It has begun.	පටන් ගත්තා.
+It is a book.	මේක පොතක්.
+It isn't new.	එය අලුත් දෙයක් නොවේ.
+It looks fun.	එය විනෝදජනක බව පෙනේ.
+It may break.	එය කැඩී යා හැක.
+It may break.	එය කැඩී යා හැක.
+It was black.	එය කළු විය.
+It was gross.	එය පිළිකුල් සහගත විය.
+It was magic.	එය මායාකාරී විය.
+It was night.	එය රාත්රිය විය.
+It wasn't me.	මම ගියේ නැහැ.
+It went well.	ඒක හරි ගියා.
+It will burn.	එය දැවී යනු ඇත.
+It'll be fun.	එය විනෝදජනක වනු ඇත.
+It'll be fun.	එය විනෝදාත්මක වේවි.
+It's a curse.	ඒක ශාපයක්.
+It's a trick.	එය උගුලකි.
+It's amazing.	එය ඇදහිය නොහැකි ය!
+It's bedtime.	නින්දට යාමට කාලයයි.
+It's for Tom.	එය ටොම් සඳහා ය.
+It's for you.	මෙය ඔබටය.
+It's morning.	එය උදෑසන වේ.
+It's my book.	එය මගේ පොතයි.
+It's my life.	එය මගේ ජීවිතයයි.
+It's my turn.	මගේ වාරයයි.
+It's my turn.	මගේ වාරය.
+It's no joke.	එය විහිළුවක් නොවේ.
+It's on fire.	එය ගිනිගෙන ඇත.
+It's our car.	ඒක අපේ කාර් එක.
+It's our job.	ඒක අපේ වැඩක්.
+It's perfect.	එය පරිපූර්ණයි.
+It's snowing.	හිම වැටෙයි.
+It's so easy.	එතරම් පහසුයි.
+It's strange.	ඒක අමුතුයි.
+It's too big.	ඒක ලොකු වැඩියි.
+It's too hot.	එය ඉතා උණුසුම් වේ.
+It's too hot.	එය ඇත්තෙන්ම උණුසුම්.
+It's too hot.	එය ඉතා උණුසුම් ය.
+It's useless.	එය නිෂ්ඵලය.
+It's working.	වැඩ කරනවා.
+Just ask Tom.	ටොම්ගෙන් අහන්න.
+Just do that.	හුදෙක් එය කරන්න!
+Just hang on.	නිකන් ඉන්න.
+Just hold on.	නිකන් ඉන්න.
+Just say yes.	ඔව් කියන්න.
+Just say yes.	ඔව් කියන්න එපමණයි.
+Keep dancing.	මම දිගටම නැටුවා.
+Keep digging.	මම දිගටම කැණීම් කළා.
+Keep driving.	දිගටම රිය පදවන්න.
+Keep looking.	දිගටම බලන්න.
+Keep reading.	දිගටම කියවන්න.
+Keep reading.	දිගටම කියවන්න.
+Keep running.	මම දුවගෙන ගියා.
+Keep running.	දිගටම දුවන්න.
+Keep running.	දිගටම දුවන්න.
+Keep running.	දිගටම දුවන්න.
+Keep singing.	දිගටම ගායනා කරන්න.
+Keep smiling.	හිනාවෙලා ඉන්න.
+Keep smiling.	හිනාවෙලා ඉන්න.
+Keep smiling.	හිනාවෙලා ඉන්න.
+Keep smiling.	හිනාවෙලා ඉන්න.
+Keep talking.	දිගටම කතා කරන්න.
+Keep talking.	දිගටම කතා කරන්න.
+Keep talking.	දිගටම කතා කරන්න.
+Keep walking.	මම දිගටම ඇවිද ගියෙමි.
+Keep writing.	මම දිගටම ලිව්වා.
+Let Tom come.	ටොම්ට එන්න දෙන්න.
+Let Tom stay.	ටොම්ට ඉන්න දෙන්න.
+Let go of it.	යන්න දෙන්න.
+Let go of me!	යන්න දෙන්න!
+Let go of me.	මට යන්න දෙන්න.
+Let me do it.	මට ඒක කරන්න දෙන්න.
+Let me leave!	මට එළියට යන්න දෙන්න!
+Let me leave!	මට යන්න දෙන්න!
+Let me speak.	මට කතා කරන්න දෙන්න.
+Let me think.	මට හිතන්න දෙන්න.
+Let's go eat.	අපි කමු.
+Let's go eat.	අපි යමු කන්න.
+Let's go now.	දැන් අපි යමු.
+Let's go out.	අපි එළියට යමු.
+Let's listen.	අපි සවන් දෙමු.
+Let's not go.	අපි නොයමු.
+Life goes on.	ජීවිතය ගෙවෙයි.
+Life is hard.	ජීවිතය දුෂ්කර ය.
+Life's short.	ජීවිතය කෙටියි.
+Look at that!	එය පරික්ෂා කරන්න!
+Look at that!	ඒක බලන්න!
+Look at that.	ඒක බලන්න.
+Look at that.	එය පරික්ෂා කරන්න.
+Look at this.	මේ දෙස බලන්න.
+Look at this.	මේක බලන්න.
+Look closely.	හොඳින් බලන්න.
+Look closely.	හොඳින් බලන්න.
+Look closely.	හොඳින් බලන්න.
+Make a guess.	අනුමාන.
+Make it stop.	එය නවත්වන්න.
+Mary came in.	මරියා ඇතුළු විය.
+Mary giggled.	මේරි හිනැහුනාය.
+Mary is tall.	මරියා උසයි.
+Meat, please.	කරුණාකර, මස්.
+Men are pigs.	පිරිමි ඌරන්ය.
+Move on, Tom.	දිගටම කරගෙන යන්න, ටොම්.
+Move on, Tom.	දිගටම කරගෙන යන්න, ටොම්.
+Move quietly.	සද්ද නොකර ගමන් කරන්න.
+My arm hurts.	මගේ අත රිදෙනවා.
+My ears hurt.	මගේ කන් රිදෙනවා.
+My feet hurt.	මගේ කකුල් රිදෙනවා.
+My hip hurts.	මගේ උකුල රිදෙනවා.
+My jaw hurts.	මගේ හකු රිදෙනවා.
+My leg hurts.	මගේ කකුල රිදෙනවා.
+No one knows.	කවුරුත් දන්නේ නැහැ.
+No one moved.	කවුරුත් හෙල්ලුනේ නෑ.
+No one moved.	කවුරුත් හෙල්ලුනේ නෑ.
+Nobody asked.	කවුරුත් ඇහුවේ නෑ.
+Nobody knows.	කවුරුත් දන්නේ නැහැ.
+Now I get it.	මට දැන් තේරෙනවා.
+Now I get it.	දැන් මම අල්ලනවා.
+Now leave us.	දැන් අපිව දාලා යන්න.
+Now let's go.	දැන් අපි යමු.
+Now sit down.	දැන් වාඩි වෙන්න.
+Now try this.	දැන් මේක ට්‍රයි කරලා බලන්න.
+Oh, I got it.	ඔහ්, මට තේරෙනවා.
+Oh, I got it.	ඔහ්, මට තේරුණා.
+Open the box.	මම පෙට්ටිය ඇරියා.
+Open the box.	පෙට්ටිය විවෘත කරන්න.
+Our team won.	අපේ කණ්ඩායම දිනුවා.
+Please hurry!	කරුණාකර ඉක්මන් කරන්න!
+Please leave.	කරුණාකර යන්න.
+Please relax.	කරුණාකර සන්සුන් වන්න.
+Please smile.	සිනාසෙන්න.
+Please smile.	සිනාසෙන්න.
+Point it out.	එය පෙන්වා දෙන්න.
+Pull it open.	එය විවෘත කරන්න.
+Pull it open.	එය සම්පූර්ණයෙන්ම විවෘත කරන්න.
+Put it there.	එතන තියන්න.
+Put it there.	එතන තියන්න.
+Put it there.	එතන තියන්න.
+Put it there.	එතන තියන්න.
+Recess ended.	විවේකය අවසන් විය.
+Recess ended.	විවේකය අවසන්.
+Run and hide.	දුවන්න සහ සැඟවෙන්න.
+Say it again.	එය නැවත කරන්න.
+School's out.	ඉස්කෝලේ ඇරිලා.
+School's out.	පන්ති ඉවරයි.
+See you at 7.	7ට හමුවෙමු.
+See you soon!	ඔයාව පසුව හමුවෙන්නම්!
+See you soon!	ඔයාව ඉක්මණින්ම මුණගැසෙන්නම්!
+See you soon!	මම ඉක්මනින්ම හමුවෙමු.
+See you then.	එතෙක්.
+Shame on you!	මොන නින්දාවක් ද!
+Shame on you!	ඔයාට නින්දාවක්!
+She has wine.	ඇයට වයින් තිබේ.
+She has wine.	එහි වයින් තිබේ.
+She helps us.	ඇය අපට උදව් කරයි.
+She is happy.	ඇය සතුටුයි.
+She is quiet.	ඇය නිහඬයි.
+She is quiet.	එය නිහඬයි.
+She is quiet.	එය සන්සුන් ය.
+She is wrong.	ඇය වැරදියි.
+She liked it.	ඔහු එයට කැමති විය.
+She loves us.	ඇය අපට ආදරෙයි.
+She may come.	එයා එන්න ඇති.
+She shot him.	ඔහු ඔහුට වෙඩි තැබුවේය.
+She stood up.	ඇය නැගිට්ටා.
+She sued him.	ඇය ඉල්ලා සිටියාය.
+She went out.	ඇය එළියේ.
+She's pretty.	ඇය ලස්සනයි.
+She's stupid.	ටැංකියේ වතුර නැහැ.
+She's stupid.	ඒක සලාමි එකක්.
+Show me that.	ඒක මට පෙන්වන්න.
+Sing with us.	අපිත් එක්ක සින්දු කියන්න.
+Someone came.	කෙනෙක් ඇවිත්.
+Someone came.	කෙනෙක් ආවා.
+Speak louder.	හයියෙන් කතා කරන්න.
+Speak softly.	පහත් හඬින් කතා කරන්න.
+Stay at home.	ගෙදර ඉන්න.
+Stay focused.	අවධානය යොමු කරන්න.
+Stay focused.	අවධානය නැති කරගන්න එපා.
+Stay focused.	සුසරව සිටින්න.
+Stay focused.	අවධානය යොමු කරන්න.
+Stay with me.	මා සමඟ රැඳෙන්න.
+Stay with us.	අපිත් එක්ක ඉන්න.
+Stay with us.	අපිත් එක්ක ඉන්න.
+Step forward.	පියවරක් ඉදිරියට තබන්න.
+Stop arguing.	තර්ක කරන්න එපා.
+Stop arguing.	තර්ක කිරීම නවත්වන්න.
+Stop gawking.	බැලීම නවත්වන්න.
+Stop pushing.	තල්ලු කිරීම නවත්වන්න.
+Stop reading.	කියවීම නවත්වන්න.
+Stop reading.	කියවීම නවත්වන්න.
+Stop singing.	ගායනය නවත්වන්න.
+Stop smoking.	දුම්පානය නතර කරන්න.
+Stop staring.	මා දෙස බැලීම නවත්වන්න.
+Stop talking.	නිශ්ශබ්ද වන්න.
+Stop the car.	මෝටර් රථය සඳහා.
+Stop whining.	පැමිණිලි කිරීම නවත්වන්න.
+Stop whining.	එය බොහෝ පසුතැවීමට ප්රමාණවත්ය.
+Stop yelling.	කෑගහන එක නවත්තන්න.
+Sweet dreams!	මිහිරි් හීන!
+Sweet dreams!	මිහිරි් හීන!
+Switch it on.	එය ක්‍රියාත්මක කරන්න.
+Take a break.	විවේකගන්න.
+Take a break.	විවේක ගන්න.
+Take a break.	විවේක ගන්න.
+Take command.	පාලනය කරන්න.
+Take command.	පාලනය කරන්න.
+Take control.	පාලනය කරන්න.
+Take it easy!	සන්සුන් වෙන්න!
+Take it easy!	සන්සුන් වෙන්න!
+Take it home.	ගෙදර ගෙනියන්න.
+Take it home.	එය ඉවත් කරන්න.
+Take my hand.	මගේ අත ගන්න.
+Take the bus.	බොන්ඩි එක ගන්න.
+Take us home.	අපිව ගෙදර ගෙනියන්න.
+Tell me more.	මට තව කියන්න.
+Tell me more.	මට තව කියන්න.
+Tell me more.	මට තව කියන්න.
+Tell me more.	මට තව කියන්න.
+Tell us more.	අපිට තව කියන්න.
+Tell us more.	අපිට තව කියන්න.
+Tell us more.	අපිට තව කියන්න.
+Tell us more.	අපිට තව කියන්න.
+Tell us more.	අපිට තව කියන්න.
+Tell us more.	අපිට තව කියන්න.
+Thanks a lot.	මම ඒක ගොඩක් අගය කරනවා.
+Thanks a lot.	ඔයාට බොහෝම ස්තූතියි.
+Thanks a lot.	ගොඩක් ස්තුතිවන්ත වෙනවා.
+Thanks a lot.	මම ඒක ගොඩක් අගය කරනවා.
+Thanks again.	නැවත ස්තූතියි.
+Thanks again.	නැවත ස්තූතියි!
+That does it.	ඒක වැඩියි.
+That is mine.	ඒක මගේ.
+That was Tom.	ඒ ටොම් ය.
+That was bad.	ඒක නරකයි.
+That was fun.	එය විනෝදජනක විය.
+That was odd.	ඒක අමුතුයි.
+That will do.	ඒක කරයි.
+That will do.	එය ප්රමාණවත් වනු ඇත.
+That will do.	එය ප්රමාණවත් වනු ඇත.
+That will do.	මෙම ගණනය.
+That will do.	ඒකත් එක්ක මට තියෙනවා.
+That'll help.	එය උපකාර වනු ඇත.
+That'll last.	එය පවතිනු ඇත.
+That'll last.	එය පවතිනු ඇත.
+That'll work.	එය වැඩ කරනු ඇත.
+That'll work.	එය වැඩ කරනු ඇත.
+That'll work.	එය මා වෙනුවෙන් කරනු ඇත.
+That's Tom's.	ඒ තෝමස්ගෙන්.
+That's a lie.	ඒක බොරුවක්.
+That's a lot!	එය ගොඩක්!
+That's crazy.	ඒක පිස්සුවක්.
+That's cruel.	ඒක කුරිරුයි.
+That's my CD.	ඒක මගේ සීඩී එක.
+That's right.	එනම්.
+That's right.	ඒක එහෙමයි.
+That's weird.	දුර්ලභ ය.
+That's weird.	ඒක අමුතුයි.
+The two left.	දෙන්නම ගියා.
+They all sat.	ඔවුන් සියල්ලෝම වාඩි වූහ.
+They approve.	ඔවුන් අනුමත කරනවා.
+They approve.	ඔවුන් අනුමත කරනවා.
+They are big.	ඔවුන් විශාලයි.
+They came in.	ඔවුන් ඇතුල් විය.
+They came in.	ඔවුන් පැමිණියා.
+They came in.	ඔවුන් ඇතුල් විය.
+They came in.	ඔවුන් ඇතුලට ආවා.
+They cheered.	ඔව්හු ඔල්වරසන් දුන්හ.
+They crashed.	ඔවුන්ට අනතුරක් සිදුවේ.
+They crashed.	ඔවුන් කඩා වැටුණා.
+They crashed.	ඔවුන් කඩා වැටුණා.
+They escaped.	ඔවුන් පැන ගියා.
+They gave up.	ඔවුන් අත්හැරියා.
+They gave up.	ඔවුන් අත්හැරියා.
+They gave up.	ඔවුන් අත්හැරියා.
+They gave up.	ඔවුන් තුවාය විසි කළා.
+They hate us.	ඔවුන් අපට වෛර කරනවා.
+They help us.	එයාලා අපිට උදව් කරනවා.
+They help us.	එයාලා අපිට උදව් කරනවා.
+They knew me.	ඔවුන් මාව දැන සිටියා.
+They know me.	ඔවුන් මාව දන්නවා.
+They know us.	ඔවුන් අපිව දන්නවා.
+They laughed.	ඔවුන් හිනා වුණා.
+They love it.	ඔවුන් ආදරෙයි.
+They love it.	ඔවුන් ඔහුට නමස්කාර කරති.
+They love me.	ඔවුන් මට ආදරෙයි.
+They need me.	ඔවුන්ට මාව අවශ්‍යයි.
+They refused.	ඔවුන් ප්රතික්ෂේප කළා.
+They said no.	ඔවුන් නැහැ කිව්වා.
+They saw Tom.	ඔවුන් ටොම්ව දැක්කා.
+They saw you.	ඔවුන් ඔබව දුටුවා.
+They saw you.	ඔවුන් ඔබව දුටුවා.
+They stopped.	ඔවුන් නැවතුණා.
+They sweated.	ඔවුන් දාඩිය දැම්මා.
+They want me.	ඔවුන් මට ආදරෙයි.
+They want me.	ඔවුන් මට ආදරෙයි.
+They want me.	ඔවුන් මට ආදරෙයි.
+They'll call.	ඔවුන් කැඳවනු ඇත.
+They'll call.	ඔවුන් කැඳවනු ඇත.
+They'll come.	ඔවුන් පැමිණෙනු ඇත.
+They'll come.	ඔවුන් පැමිණෙනු ඇත.
+They'll know.	ඔවුන් එය දැන ගනු ඇත.
+They'll wait.	ඔවුන් බලා සිටිනු ඇත.
+They'll wait.	ඔවුන් බලා සිටිනු ඇත.
+They're back.	ඔවුන් ආපසු පැමිණ ඇත.
+They're back.	ඔවුන් ආපසු පැමිණ ඇත.
+They're boys.	ඔවුන් පිරිමි ළමයි.
+They're boys.	ඔවුන් පිරිමි ළමයි.
+They're boys.	ඔවුන් පිරිමි ළමයින් ය.
+They're cold.	ඔවුන් සීතලයි.
+They're eggs.	ඒවා බිත්තර.
+They're fast.	ඔවුන් වේගවත් ය.
+They're fine.	ඔවුන් හොඳින් ඉන්නවා.
+They're fine.	ඔවුන් පරිපූර්ණයි.
+They're fine.	ඒවා අපූරුයි.
+They're gone.	ඔවුන් ගියා.
+They're good.	හොඳයි.
+They're here.	එයාලා මෙහෙ ඉන්නවා.
+They're here.	මෙතන ඉන්නවා.
+They're here.	ඒවා මෙහි දක්නට ලැබේ.
+They're home.	ඔවුන් ගෙදර.
+They're mine.	ඔවුන් මගේ වේ.
+They're mine.	ඔවුන් මගේ වේ.
+They're mine.	ඔවුන් මගේ වේ.
+They're nice.	ඔවුන් ලස්සනයි.
+They're nice.	ඔවුන් හොඳින්.
+They're nice.	ඔවුන් ලස්සනයි.
+They're rich.	ඔවුන් පොහොසත් ය.
+They're ugly.	ඒවා කැතයි.
+They're weak.	ඔවුන් දුර්වලයි.
+They've gone.	ඔවුන් ගොස් ඇත.
+They've gone.	ඔවුන් ගොස් ඇත.
+They've gone.	ඔවුන් ගියා.
+They've gone.	ඔවුන් පිටත්ව ගොස් ඇත.
+They've left.	ඔවුන් ගියා.
+They've left.	ඔවුන් පිටතට ගොස් ඇත.
+Things break.	දේවල් කැඩී යයි.
+This is easy.	මෙය සරලයි.
+This is fine.	මෙය පරිපූර්ණයි.
+This is food.	මෙය ආහාර වේ.
+This is gold.	මේක රත්තරන්.
+This is good.	මේක හොඳයි.
+This is good.	මේක හොඳයි.
+This is hers.	මෙය ඔබගේ ය.
+This is hers.	මේ ඇගේ.
+This is life!	මෙයයි ජීවිතය!
+This is love.	මෙය ආදරයයි.
+This is mine.	මේක මගේ.
+This is mine.	මේක මගේ.
+This is nice.	මේක හොඳයි.
+This is nice.	මේක හොඳයි.
+This is nice.	මේක නියමයි.
+This is nuts.	මේක පිස්සුවක්.
+This is ours.	මේක අපේ.
+This is ugly.	මේක කැතයි.
+This'll help.	මෙය උපකාර වනු ඇත.
+This'll work.	මෙය වැඩ කරනු ඇත.
+Tom answered.	ටොම් පිළිතුරු දුන්නේය.
+Tom approves.	ටොම් අනුමත කරයි.
+Tom bit Mary.	ටොම් මේරිට ගැහුවා.
+Tom bores me.	ටොම් මට එපා වෙනවා.
+Tom can cook.	ටොම්ට උයන්න පුළුවන්.
+Tom can help.	ටොම්ට උදව් කරන්න පුළුවන්.
+Tom can swim.	ටොම්ට පිහිනන්න පුළුවන්.
+Tom canceled.	ටොම් අවලංගු කළා.
+Tom canceled.	ටොම් තමයි අවලංගු කිරීම කළේ.
+Tom enlisted.	ටොම් අත්සන් කළා.
+Tom felt sad.	ටොම්ට දුක හිතුනා.
+Tom felt sad.	ටොම්ට දුක හිතුනා.
+Tom finished.	ටොම් ඉවරයි.
+Tom flinched.	ටොම් කම්පා විය.
+Tom got lost.	ටොම් නැති වුණා.
+Tom got shot.	ටොම්ට වෙඩි තිබ්බා.
+Tom got sick.	ටොම් අසනීප වුණා.
+Tom has guts.	ටොම්ට ධෛර්යයක් තියෙනවා.
+Tom hates me.	ටොම් මට වෛර කරනවා.
+Tom helps us.	ටොම් අපිට උදව් කරනවා.
+Tom hit Mary.	ටොම් මේරිට ගැහුවා.
+Tom insisted.	ටොම් අවධාරනය කලේය.
+Tom is a cop.	ටොම් පොලිස්කාරයෙක්.
+Tom is a vet.	ටොම් ප්‍රවීණයෙකි.
+Tom is a vet.	ටොම් පශු වෛද්‍යවරයෙකි.
+Tom is brave.	ටොම් නිර්භීතයි.
+Tom is cruel.	ටොම් කුරිරු ය.
+Tom is dying.	ටොම් මැරෙනවා.
+Tom is gross.	ටොම් පිළිකුල් සහගතයි.
+Tom is happy.	ටොම් සතුටුයි.
+Tom is loyal.	ටොම් විශ්වාසවන්තයි.
+Tom is lying.	ටොම් බොරු කියනවා.
+Tom is my ex.	ටොම් මගේ හිටපු කෙනෙක්.
+Tom is naked.	ටොම් නිරුවතින්.
+Tom is naked.	ටොම් කිරිගරුඬ මත ඇවිදියි.
+Tom is naked.	ටොම් යනු දෝෂයකි.
+Tom is naked.	ටොම් එහා මෙහා ඇවිදිනවා.
+Tom is naked.	ටොම් නිරුවතින්.
+Tom is naked.	ටොම් අමාරුවේ වැටිලා.
+Tom is nasty.	ටොම් පිළිකුල් සහගතයි.
+Tom is picky.	ටොමස් කපටියි.
+Tom is quiet.	ටොමස් සන්සුන් ය.
+Tom is ready.	ටොම් සූදානම්.
+Tom is right.	ටොම් හරි.
+Tom is short.	ටොම් කෙටියි.
+Tom is timid.	ටොම් ලැජ්ජයි.
+Tom is upset.	ටොම් කලබලයි.
+Tom is witty.	ටොමස්ට ගිනි පුපුරක් තියෙනවා.
+Tom is wrong.	ටොම් වැරදියි.
+Tom liked it.	ටොම් එයට කැමති විය.
+Tom likes it.	ටොම් එයට කැමතියි.
+Tom likes me.	ටොම් මට කැමතියි.
+Tom likes me.	ටොම් මට ආදරෙයි.
+Tom listened.	ටොම් සවන් දුන්නා.
+Tom loves me.	ටොම් මට ආදරෙයි.
+Tom met Mary.	ටොම්ට මේරි හමු විය.
+Tom needs me.	ටොමාස්ට මාව අවශ්‍යයි.
+Tom needs us.	ටොම්ට අපිව අවශ්‍යයි.
+Tom panicked.	කලබල වූයේ ටොම් ය.
+Tom panicked.	ටොම් කලබල විය.
+Tom promised.	ටොම් පොරොන්දු විය.
+Tom promised.	ටොම් පොරොන්දු විය.
+Tom ran away.	ටොම් පලා ගියේය.
+Tom relented.	ටොම් පසුබට විය.
+Tom relented.	ටොම් පසුබට විය.
+Tom relented.	ටොම් අනුකම්පා කළා.
+Tom resigned.	තෝමස් ඉල්ලා අස්විය.
+Tom saw Mary.	ටොම් මේරිව දැක්කා.
+Tom screamed.	ටොම් කෑගැසුවා.
+Tom shot her.	ටොමස් ඔහුට වෙඩි තැබුවේය.
